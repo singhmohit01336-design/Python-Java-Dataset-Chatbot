@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "PYTHON_001",
+    "language": "Python",
+    "question": "What is Python?",
+    "answer": "Python is a high-level, general-purpose programming language known for readable syntax and a large standard library."
+  },
+  {
+    "id": "PYTHON_002",
+    "language": "Python",
+    "question": "What is Python in simple words?",
+    "answer": "Python is a high-level, general-purpose programming language known for readable syntax and a large standard library."
+  },
+  {
+    "id": "PYTHON_003",
+    "language": "Python",
+    "question": "Who created Python?",
+    "answer": "Python was created by Guido van Rossum and first released in 1991."
+  },
+  {
+    "id": "PYTHON_004",
+    "language": "Python",
+    "question": "Who created Python in simple words?",
+    "answer": "Python was created by Guido van Rossum and first released in 1991."
+  },
+  {
+    "id": "PYTHON_005",
+    "language": "Python",
+    "question": "What is an interpreter?",
+    "answer": "An interpreter executes program instructions at runtime. Python implementations commonly execute source through bytecode and a virtual machine."
+  },
+  {
+    "id": "PYTHON_006",
+    "language": "Python",
+    "question": "What is an interpreter in simple words?",
+    "answer": "An interpreter executes program instructions at runtime. Python implementations commonly execute source through bytecode and a virtual machine."
+  },
+  {
+    "id": "PYTHON_007",
+    "language": "Python",
+    "question": "What is a variable?",
+    "answer": "A variable is a name that refers to an object or value, for example age = 20."
+  },
+  {
+    "id": "PYTHON_008",
+    "language": "Python",
+    "question": "What is a variable in simple words?",
+    "answer": "A variable is a name that refers to an object or value, for example age = 20."
+  },
+  {
+    "id": "PYTHON_009",
+    "language": "Python",
+    "question": "How do you write a comment?",
+    "answer": "Use # for a single-line comment. Triple-quoted strings are commonly used for documentation strings, not ordinary comments."
+  },
+  {
+    "id": "PYTHON_010",
+    "language": "Python",
+    "question": "How do you write a comment in simple words?",
+    "answer": "Use # for a single-line comment. Triple-quoted strings are commonly used for documentation strings, not ordinary comments."
+  },
+  {
+    "id": "PYTHON_011",
+    "language": "Python",
+    "question": "What is indentation used for?",
+    "answer": "Indentation defines code blocks in Python, such as the bodies of functions, loops, and conditional statements."
+  },
+  {
+    "id": "PYTHON_012",
+    "language": "Python",
+    "question": "What is indentation used for in simple words?",
+    "answer": "Indentation defines code blocks in Python, such as the bodies of functions, loops, and conditional statements."
+  },
+  {
+    "id": "PYTHON_013",
+    "language": "Python",
+    "question": "What are Python's basic data types?",
+    "answer": "Common built-in types include int, float, bool, str, list, tuple, set, and dict."
+  },
+  {
+    "id": "PYTHON_014",
+    "language": "Python",
+    "question": "What are Python's basic data types in simple words?",
+    "answer": "Common built-in types include int, float, bool, str, list, tuple, set, and dict."
+  },
+  {
+    "id": "PYTHON_015",
+    "language": "Python",
+    "question": "What is dynamic typing?",
+    "answer": "A name can refer to objects of different types during program execution; the object's type is determined at runtime."
+  },
+  {
+    "id": "PYTHON_016",
+    "language": "Python",
+    "question": "What is dynamic typing in simple words?",
+    "answer": "A name can refer to objects of different types during program execution; the object's type is determined at runtime."
+  },
+  {
+    "id": "PYTHON_017",
+    "language": "Python",
+    "question": "What is type casting?",
+    "answer": "Type casting converts a value to another type, such as int('12') converting a numeric string to an integer."
+  },
+  {
+    "id": "PYTHON_018",
+    "language": "Python",
+    "question": "What is type casting in simple words?",
+    "answer": "Type casting converts a value to another type, such as int('12') converting a numeric string to an integer."
+  },
+  {
+    "id": "PYTHON_019",
+    "language": "Python",
+    "question": "What does type() do?",
+    "answer": "type(value) returns the type (class) of an object."
+  },
+  {
+    "id": "PYTHON_020",
+    "language": "Python",
+    "question": "What does type() do in simple words?",
+    "answer": "type(value) returns the type (class) of an object."
+  },
+  {
+    "id": "PYTHON_021",
+    "language": "Python",
+    "question": "What is None?",
+    "answer": "None is Python's special singleton value representing the absence of a value."
+  },
+  {
+    "id": "PYTHON_022",
+    "language": "Python",
+    "question": "What is None in simple words?",
+    "answer": "None is Python's special singleton value representing the absence of a value."
+  },
+  {
+    "id": "PYTHON_023",
+    "language": "Python",
+    "question": "What is a string?",
+    "answer": "A string (str) is an immutable sequence of Unicode characters, written with quotes."
+  },
+  {
+    "id": "PYTHON_024",
+    "language": "Python",
+    "question": "What is a string in simple words?",
+    "answer": "A string (str) is an immutable sequence of Unicode characters, written with quotes."
+  },
+  {
+    "id": "PYTHON_025",
+    "language": "Python",
+    "question": "How do you join strings?",
+    "answer": "Use + for simple concatenation or 'separator'.join(iterable) for joining many strings efficiently."
+  },
+  {
+    "id": "PYTHON_026",
+    "language": "Python",
+    "question": "How do you join strings in simple words?",
+    "answer": "Use + for simple concatenation or 'separator'.join(iterable) for joining many strings efficiently."
+  },
+  {
+    "id": "PYTHON_027",
+    "language": "Python",
+    "question": "What is an f-string?",
+    "answer": "An f-string is a formatted string literal, such as f'Hello, {name}', which inserts expressions into text."
+  },
+  {
+    "id": "PYTHON_028",
+    "language": "Python",
+    "question": "What is an f-string in simple words?",
+    "answer": "An f-string is a formatted string literal, such as f'Hello, {name}', which inserts expressions into text."
+  },
+  {
+    "id": "PYTHON_029",
+    "language": "Python",
+    "question": "How do you get a string's length?",
+    "answer": "Use len(text) to get the number of characters in a string."
+  },
+  {
+    "id": "PYTHON_030",
+    "language": "Python",
+    "question": "How do you get a string's length in simple words?",
+    "answer": "Use len(text) to get the number of characters in a string."
+  },
+  {
+    "id": "PYTHON_031",
+    "language": "Python",
+    "question": "What is a list?",
+    "answer": "A list is an ordered, mutable collection that can contain items of different types."
+  },
+  {
+    "id": "PYTHON_032",
+    "language": "Python",
+    "question": "What is a list in simple words?",
+    "answer": "A list is an ordered, mutable collection that can contain items of different types."
+  },
+  {
+    "id": "PYTHON_033",
+    "language": "Python",
+    "question": "How do you add an item to a list?",
+    "answer": "Use list.append(item) to add one item at the end, or list.extend(iterable) to add multiple items."
+  },
+  {
+    "id": "PYTHON_034",
+    "language": "Python",
+    "question": "How do you add an item to a list in simple words?",
+    "answer": "Use list.append(item) to add one item at the end, or list.extend(iterable) to add multiple items."
+  },
+  {
+    "id": "PYTHON_035",
+    "language": "Python",
+    "question": "How do you remove an item from a list?",
+    "answer": "Use remove(value), pop(index), or del, depending on whether you know the value or position."
+  },
+  {
+    "id": "PYTHON_036",
+    "language": "Python",
+    "question": "How do you remove an item from a list in simple words?",
+    "answer": "Use remove(value), pop(index), or del, depending on whether you know the value or position."
+  },
+  {
+    "id": "PYTHON_037",
+    "language": "Python",
+    "question": "What is a tuple?",
+    "answer": "A tuple is an ordered, immutable sequence, commonly written as (1, 2, 3)."
+  },
+  {
+    "id": "PYTHON_038",
+    "language": "Python",
+    "question": "What is a tuple in simple words?",
+    "answer": "A tuple is an ordered, immutable sequence, commonly written as (1, 2, 3)."
+  },
+  {
+    "id": "PYTHON_039",
+    "language": "Python",
+    "question": "What is a set?",
+    "answer": "A set is an unordered collection of unique hashable elements; it is useful for membership tests and removing duplicates."
+  },
+  {
+    "id": "PYTHON_040",
+    "language": "Python",
+    "question": "What is a set in simple words?",
+    "answer": "A set is an unordered collection of unique hashable elements; it is useful for membership tests and removing duplicates."
+  },
+  {
+    "id": "PYTHON_041",
+    "language": "Python",
+    "question": "What is a dictionary?",
+    "answer": "A dictionary maps unique keys to values, for example {'name': 'Asha', 'age': 20}."
+  },
+  {
+    "id": "PYTHON_042",
+    "language": "Python",
+    "question": "What is a dictionary in simple words?",
+    "answer": "A dictionary maps unique keys to values, for example {'name': 'Asha', 'age': 20}."
+  },
+  {
+    "id": "PYTHON_043",
+    "language": "Python",
+    "question": "How do you access a dictionary value safely?",
+    "answer": "Use mapping.get(key, default) to avoid a KeyError when a key is absent."
+  },
+  {
+    "id": "PYTHON_044",
+    "language": "Python",
+    "question": "How do you access a dictionary value safely in simple words?",
+    "answer": "Use mapping.get(key, default) to avoid a KeyError when a key is absent."
+  },
+  {
+    "id": "PYTHON_045",
+    "language": "Python",
+    "question": "What is slicing?",
+    "answer": "Slicing extracts a sequence segment with sequence[start:stop:step]; the stop index is excluded."
+  },
+  {
+    "id": "PYTHON_046",
+    "language": "Python",
+    "question": "What is slicing in simple words?",
+    "answer": "Slicing extracts a sequence segment with sequence[start:stop:step]; the stop index is excluded."
+  },
+  {
+    "id": "PYTHON_047",
+    "language": "Python",
+    "question": "What does range() do?",
+    "answer": "range() produces an immutable sequence of integers, often used to control for-loops."
+  },
+  {
+    "id": "PYTHON_048",
+    "language": "Python",
+    "question": "What does range() do in simple words?",
+    "answer": "range() produces an immutable sequence of integers, often used to control for-loops."
+  },
+  {
+    "id": "PYTHON_049",
+    "language": "Python",
+    "question": "What is a for loop?",
+    "answer": "A for loop iterates over items in an iterable, such as a list, string, or range."
+  },
+  {
+    "id": "PYTHON_050",
+    "language": "Python",
+    "question": "What is a for loop in simple words?",
+    "answer": "A for loop iterates over items in an iterable, such as a list, string, or range."
+  },
+  {
+    "id": "PYTHON_051",
+    "language": "Python",
+    "question": "What is a while loop?",
+    "answer": "A while loop repeats its body as long as its condition remains true."
+  },
+  {
+    "id": "PYTHON_052",
+    "language": "Python",
+    "question": "What is a while loop in simple words?",
+    "answer": "A while loop repeats its body as long as its condition remains true."
+  },
+  {
+    "id": "PYTHON_053",
+    "language": "Python",
+    "question": "What does break do?",
+    "answer": "break immediately exits the nearest enclosing loop."
+  },
+  {
+    "id": "PYTHON_054",
+    "language": "Python",
+    "question": "What does break do in simple words?",
+    "answer": "break immediately exits the nearest enclosing loop."
+  },
+  {
+    "id": "PYTHON_055",
+    "language": "Python",
+    "question": "What does continue do?",
+    "answer": "continue skips the rest of the current loop iteration and proceeds to the next iteration."
+  },
+  {
+    "id": "PYTHON_056",
+    "language": "Python",
+    "question": "What does continue do in simple words?",
+    "answer": "continue skips the rest of the current loop iteration and proceeds to the next iteration."
+  },
+  {
+    "id": "PYTHON_057",
+    "language": "Python",
+    "question": "What is pass?",
+    "answer": "pass is a no-operation statement used where Python syntax requires a statement but no action is needed."
+  },
+  {
+    "id": "PYTHON_058",
+    "language": "Python",
+    "question": "What is pass in simple words?",
+    "answer": "pass is a no-operation statement used where Python syntax requires a statement but no action is needed."
+  },
+  {
+    "id": "PYTHON_059",
+    "language": "Python",
+    "question": "What is an if statement?",
+    "answer": "An if statement runs a block when its condition is true; elif and else provide additional branches."
+  },
+  {
+    "id": "PYTHON_060",
+    "language": "Python",
+    "question": "What is an if statement in simple words?",
+    "answer": "An if statement runs a block when its condition is true; elif and else provide additional branches."
+  },
+  {
+    "id": "PYTHON_061",
+    "language": "Python",
+    "question": "What is a function?",
+    "answer": "A function is a reusable block of code defined with def and called by its name."
+  },
+  {
+    "id": "PYTHON_062",
+    "language": "Python",
+    "question": "What is a function in simple words?",
+    "answer": "A function is a reusable block of code defined with def and called by its name."
+  },
+  {
+    "id": "PYTHON_063",
+    "language": "Python",
+    "question": "How do you define a function?",
+    "answer": "Use def, a function name, parentheses, and a colon; indent the function body below it."
+  },
+  {
+    "id": "PYTHON_064",
+    "language": "Python",
+    "question": "How do you define a function in simple words?",
+    "answer": "Use def, a function name, parentheses, and a colon; indent the function body below it."
+  },
+  {
+    "id": "PYTHON_065",
+    "language": "Python",
+    "question": "What is a parameter?",
+    "answer": "A parameter is a name in a function definition that receives an argument when the function is called."
+  },
+  {
+    "id": "PYTHON_066",
+    "language": "Python",
+    "question": "What is a parameter in simple words?",
+    "answer": "A parameter is a name in a function definition that receives an argument when the function is called."
+  },
+  {
+    "id": "PYTHON_067",
+    "language": "Python",
+    "question": "What is a return statement?",
+    "answer": "return ends a function and optionally sends a value back to the caller."
+  },
+  {
+    "id": "PYTHON_068",
+    "language": "Python",
+    "question": "What is a return statement in simple words?",
+    "answer": "return ends a function and optionally sends a value back to the caller."
+  },
+  {
+    "id": "PYTHON_069",
+    "language": "Python",
+    "question": "What are default arguments?",
+    "answer": "Default arguments provide values used when the caller omits the corresponding optional argument."
+  },
+  {
+    "id": "PYTHON_070",
+    "language": "Python",
+    "question": "What are default arguments in simple words?",
+    "answer": "Default arguments provide values used when the caller omits the corresponding optional argument."
+  },
+  {
+    "id": "PYTHON_071",
+    "language": "Python",
+    "question": "What are keyword arguments?",
+    "answer": "Keyword arguments pass values by parameter name, such as greet(name='Riya')."
+  },
+  {
+    "id": "PYTHON_072",
+    "language": "Python",
+    "question": "What are keyword arguments in simple words?",
+    "answer": "Keyword arguments pass values by parameter name, such as greet(name='Riya')."
+  },
+  {
+    "id": "PYTHON_073",
+    "language": "Python",
+    "question": "What is *args?",
+    "answer": "*args collects extra positional arguments into a tuple inside a function."
+  },
+  {
+    "id": "PYTHON_074",
+    "language": "Python",
+    "question": "What is *args in simple words?",
+    "answer": "*args collects extra positional arguments into a tuple inside a function."
+  },
+  {
+    "id": "PYTHON_075",
+    "language": "Python",
+    "question": "What is **kwargs?",
+    "answer": "**kwargs collects extra keyword arguments into a dictionary inside a function."
+  },
+  {
+    "id": "PYTHON_076",
+    "language": "Python",
+    "question": "What is **kwargs in simple words?",
+    "answer": "**kwargs collects extra keyword arguments into a dictionary inside a function."
+  },
+  {
+    "id": "PYTHON_077",
+    "language": "Python",
+    "question": "What is a lambda function?",
+    "answer": "A lambda is a small anonymous function expression limited to a single expression."
+  },
+  {
+    "id": "PYTHON_078",
+    "language": "Python",
+    "question": "What is a lambda function in simple words?",
+    "answer": "A lambda is a small anonymous function expression limited to a single expression."
+  },
+  {
+    "id": "PYTHON_079",
+    "language": "Python",
+    "question": "What is recursion?",
+    "answer": "Recursion occurs when a function calls itself; it needs a base case to stop."
+  },
+  {
+    "id": "PYTHON_080",
+    "language": "Python",
+    "question": "What is recursion in simple words?",
+    "answer": "Recursion occurs when a function calls itself; it needs a base case to stop."
+  },
+  {
+    "id": "PYTHON_081",
+    "language": "Python",
+    "question": "What is a module?",
+    "answer": "A module is a Python file containing definitions and statements that can be imported into other code."
+  },
+  {
+    "id": "PYTHON_082",
+    "language": "Python",
+    "question": "What is a module in simple words?",
+    "answer": "A module is a Python file containing definitions and statements that can be imported into other code."
+  },
+  {
+    "id": "PYTHON_083",
+    "language": "Python",
+    "question": "How do you import a module?",
+    "answer": "Use import module_name or from module_name import name."
+  },
+  {
+    "id": "PYTHON_084",
+    "language": "Python",
+    "question": "How do you import a module in simple words?",
+    "answer": "Use import module_name or from module_name import name."
+  },
+  {
+    "id": "PYTHON_085",
+    "language": "Python",
+    "question": "What is a package?",
+    "answer": "A package organizes related Python modules under a common namespace, usually in a directory."
+  },
+  {
+    "id": "PYTHON_086",
+    "language": "Python",
+    "question": "What is a package in simple words?",
+    "answer": "A package organizes related Python modules under a common namespace, usually in a directory."
+  },
+  {
+    "id": "PYTHON_087",
+    "language": "Python",
+    "question": "What is pip?",
+    "answer": "pip is the standard package installer commonly used to install Python packages from package indexes."
+  },
+  {
+    "id": "PYTHON_088",
+    "language": "Python",
+    "question": "What is pip in simple words?",
+    "answer": "pip is the standard package installer commonly used to install Python packages from package indexes."
+  },
+  {
+    "id": "PYTHON_089",
+    "language": "Python",
+    "question": "What is a virtual environment?",
+    "answer": "A virtual environment isolates a project's Python packages from other projects and the system interpreter."
+  },
+  {
+    "id": "PYTHON_090",
+    "language": "Python",
+    "question": "What is a virtual environment in simple words?",
+    "answer": "A virtual environment isolates a project's Python packages from other projects and the system interpreter."
+  },
+  {
+    "id": "PYTHON_091",
+    "language": "Python",
+    "question": "How do you create a virtual environment?",
+    "answer": "Run python -m venv .venv in the project directory, then activate it for your shell."
+  },
+  {
+    "id": "PYTHON_092",
+    "language": "Python",
+    "question": "How do you create a virtual environment in simple words?",
+    "answer": "Run python -m venv .venv in the project directory, then activate it for your shell."
+  },
+  {
+    "id": "PYTHON_093",
+    "language": "Python",
+    "question": "What is exception handling?",
+    "answer": "Exception handling uses try and except to respond to runtime errors without abruptly terminating normal program flow."
+  },
+  {
+    "id": "PYTHON_094",
+    "language": "Python",
+    "question": "What is exception handling in simple words?",
+    "answer": "Exception handling uses try and except to respond to runtime errors without abruptly terminating normal program flow."
+  },
+  {
+    "id": "PYTHON_095",
+    "language": "Python",
+    "question": "What does finally do?",
+    "answer": "A finally block runs whether or not an exception occurred, making it useful for cleanup."
+  },
+  {
+    "id": "PYTHON_096",
+    "language": "Python",
+    "question": "What does finally do in simple words?",
+    "answer": "A finally block runs whether or not an exception occurred, making it useful for cleanup."
+  },
+  {
+    "id": "PYTHON_097",
+    "language": "Python",
+    "question": "What does raise do?",
+    "answer": "raise explicitly triggers an exception, optionally with a message or exception object."
+  },
+  {
+    "id": "PYTHON_098",
+    "language": "Python",
+    "question": "What does raise do in simple words?",
+    "answer": "raise explicitly triggers an exception, optionally with a message or exception object."
+  },
+  {
+    "id": "PYTHON_099",
+    "language": "Python",
+    "question": "What is a class?",
+    "answer": "A class defines a type by grouping data and behavior; objects are instances of classes."
+  },
+  {
+    "id": "PYTHON_100",
+    "language": "Python",
+    "question": "What is a class in simple words?",
+    "answer": "A class defines a type by grouping data and behavior; objects are instances of classes."
+  },
+  {
+    "id": "PYTHON_101",
+    "language": "Python",
+    "question": "What is an object?",
+    "answer": "An object is an instance of a class with its own state and access to the class's behavior."
+  },
+  {
+    "id": "PYTHON_102",
+    "language": "Python",
+    "question": "What is an object in simple words?",
+    "answer": "An object is an instance of a class with its own state and access to the class's behavior."
+  },
+  {
+    "id": "PYTHON_103",
+    "language": "Python",
+    "question": "What is __init__?",
+    "answer": "__init__ initializes a newly created instance; it is commonly used to assign instance attributes."
+  },
+  {
+    "id": "PYTHON_104",
+    "language": "Python",
+    "question": "What is __init__ in simple words?",
+    "answer": "__init__ initializes a newly created instance; it is commonly used to assign instance attributes."
+  },
+  {
+    "id": "PYTHON_105",
+    "language": "Python",
+    "question": "What is self?",
+    "answer": "self conventionally refers to the current instance in an instance method; Python passes it automatically when the method is called on an instance."
+  },
+  {
+    "id": "PYTHON_106",
+    "language": "Python",
+    "question": "What is self in simple words?",
+    "answer": "self conventionally refers to the current instance in an instance method; Python passes it automatically when the method is called on an instance."
+  },
+  {
+    "id": "PYTHON_107",
+    "language": "Python",
+    "question": "What is inheritance?",
+    "answer": "Inheritance lets a class derive behavior and attributes from another class, with the option to extend or override them."
+  },
+  {
+    "id": "PYTHON_108",
+    "language": "Python",
+    "question": "What is inheritance in simple words?",
+    "answer": "Inheritance lets a class derive behavior and attributes from another class, with the option to extend or override them."
+  },
+  {
+    "id": "PYTHON_109",
+    "language": "Python",
+    "question": "What is polymorphism?",
+    "answer": "Polymorphism means different object types can be used through a common interface, each providing suitable behavior."
+  },
+  {
+    "id": "PYTHON_110",
+    "language": "Python",
+    "question": "What is polymorphism in simple words?",
+    "answer": "Polymorphism means different object types can be used through a common interface, each providing suitable behavior."
+  },
+  {
+    "id": "PYTHON_111",
+    "language": "Python",
+    "question": "What is encapsulation?",
+    "answer": "Encapsulation groups data and methods and uses conventions or properties to control access to internal state."
+  },
+  {
+    "id": "PYTHON_112",
+    "language": "Python",
+    "question": "What is encapsulation in simple words?",
+    "answer": "Encapsulation groups data and methods and uses conventions or properties to control access to internal state."
+  },
+  {
+    "id": "PYTHON_113",
+    "language": "Python",
+    "question": "What is method overriding?",
+    "answer": "A subclass overrides a method by defining a method with the same name, changing the inherited behavior."
+  },
+  {
+    "id": "PYTHON_114",
+    "language": "Python",
+    "question": "What is method overriding in simple words?",
+    "answer": "A subclass overrides a method by defining a method with the same name, changing the inherited behavior."
+  },
+  {
+    "id": "PYTHON_115",
+    "language": "Python",
+    "question": "What is a class variable?",
+    "answer": "A class variable is defined on the class and is shared through the class unless shadowed on an instance."
+  },
+  {
+    "id": "PYTHON_116",
+    "language": "Python",
+    "question": "What is a class variable in simple words?",
+    "answer": "A class variable is defined on the class and is shared through the class unless shadowed on an instance."
+  },
+  {
+    "id": "PYTHON_117",
+    "language": "Python",
+    "question": "What is an instance variable?",
+    "answer": "An instance variable belongs to an individual object, commonly assigned using self.attribute."
+  },
+  {
+    "id": "PYTHON_118",
+    "language": "Python",
+    "question": "What is an instance variable in simple words?",
+    "answer": "An instance variable belongs to an individual object, commonly assigned using self.attribute."
+  },
+  {
+    "id": "PYTHON_119",
+    "language": "Python",
+    "question": "What is a decorator?",
+    "answer": "A decorator is a callable that wraps or modifies another function or class, often using @decorator syntax."
+  },
+  {
+    "id": "PYTHON_120",
+    "language": "Python",
+    "question": "What is a decorator in simple words?",
+    "answer": "A decorator is a callable that wraps or modifies another function or class, often using @decorator syntax."
+  },
+  {
+    "id": "PYTHON_121",
+    "language": "Python",
+    "question": "What is a generator?",
+    "answer": "A generator produces values lazily, usually with yield, rather than building the entire result in memory."
+  },
+  {
+    "id": "PYTHON_122",
+    "language": "Python",
+    "question": "What is a generator in simple words?",
+    "answer": "A generator produces values lazily, usually with yield, rather than building the entire result in memory."
+  },
+  {
+    "id": "PYTHON_123",
+    "language": "Python",
+    "question": "What does yield do?",
+    "answer": "yield returns a value from a generator while preserving its execution state for the next iteration."
+  },
+  {
+    "id": "PYTHON_124",
+    "language": "Python",
+    "question": "What does yield do in simple words?",
+    "answer": "yield returns a value from a generator while preserving its execution state for the next iteration."
+  },
+  {
+    "id": "PYTHON_125",
+    "language": "Python",
+    "question": "What is list comprehension?",
+    "answer": "A list comprehension creates a list concisely, for example [x*x for x in numbers]."
+  },
+  {
+    "id": "PYTHON_126",
+    "language": "Python",
+    "question": "What is list comprehension in simple words?",
+    "answer": "A list comprehension creates a list concisely, for example [x*x for x in numbers]."
+  },
+  {
+    "id": "PYTHON_127",
+    "language": "Python",
+    "question": "What is a dictionary comprehension?",
+    "answer": "A dictionary comprehension builds a dictionary from an iterable, for example {x: x*x for x in nums}."
+  },
+  {
+    "id": "PYTHON_128",
+    "language": "Python",
+    "question": "What is a dictionary comprehension in simple words?",
+    "answer": "A dictionary comprehension builds a dictionary from an iterable, for example {x: x*x for x in nums}."
+  },
+  {
+    "id": "PYTHON_129",
+    "language": "Python",
+    "question": "What is an iterator?",
+    "answer": "An iterator is an object that provides values one at a time through __next__ and signals completion with StopIteration."
+  },
+  {
+    "id": "PYTHON_130",
+    "language": "Python",
+    "question": "What is an iterator in simple words?",
+    "answer": "An iterator is an object that provides values one at a time through __next__ and signals completion with StopIteration."
+  },
+  {
+    "id": "PYTHON_131",
+    "language": "Python",
+    "question": "What is the difference between an iterable and an iterator?",
+    "answer": "An iterable can produce an iterator with iter(); an iterator itself yields successive values with next()."
+  },
+  {
+    "id": "PYTHON_132",
+    "language": "Python",
+    "question": "What is the difference between an iterable and an iterator in simple words?",
+    "answer": "An iterable can produce an iterator with iter(); an iterator itself yields successive values with next()."
+  },
+  {
+    "id": "PYTHON_133",
+    "language": "Python",
+    "question": "What is PEP 8?",
+    "answer": "PEP 8 is Python's widely used style guide, covering naming, indentation, whitespace, and code layout."
+  },
+  {
+    "id": "PYTHON_134",
+    "language": "Python",
+    "question": "What is PEP 8 in simple words?",
+    "answer": "PEP 8 is Python's widely used style guide, covering naming, indentation, whitespace, and code layout."
+  },
+  {
+    "id": "PYTHON_135",
+    "language": "Python",
+    "question": "What is the Python REPL?",
+    "answer": "The REPL is an interactive prompt that reads expressions, evaluates them, prints results, and repeats."
+  },
+  {
+    "id": "PYTHON_136",
+    "language": "Python",
+    "question": "What is the Python REPL in simple words?",
+    "answer": "The REPL is an interactive prompt that reads expressions, evaluates them, prints results, and repeats."
+  },
+  {
+    "id": "PYTHON_137",
+    "language": "Python",
+    "question": "What is the main guard?",
+    "answer": "if __name__ == '__main__': runs code only when the file is executed as the main program, not when imported."
+  },
+  {
+    "id": "PYTHON_138",
+    "language": "Python",
+    "question": "What is the main guard in simple words?",
+    "answer": "if __name__ == '__main__': runs code only when the file is executed as the main program, not when imported."
+  },
+  {
+    "id": "PYTHON_139",
+    "language": "Python",
+    "question": "How do you read a text file?",
+    "answer": "Use with open(path, 'r', encoding='utf-8') as file: and call file.read() or iterate over its lines."
+  },
+  {
+    "id": "PYTHON_140",
+    "language": "Python",
+    "question": "How do you read a text file in simple words?",
+    "answer": "Use with open(path, 'r', encoding='utf-8') as file: and call file.read() or iterate over its lines."
+  },
+  {
+    "id": "PYTHON_141",
+    "language": "Python",
+    "question": "How do you write a text file?",
+    "answer": "Use open(path, 'w', encoding='utf-8') in a with block and call write(); mode 'w' replaces existing content."
+  },
+  {
+    "id": "PYTHON_142",
+    "language": "Python",
+    "question": "How do you write a text file in simple words?",
+    "answer": "Use open(path, 'w', encoding='utf-8') in a with block and call write(); mode 'w' replaces existing content."
+  },
+  {
+    "id": "PYTHON_143",
+    "language": "Python",
+    "question": "Why use with open()?",
+    "answer": "The with statement ensures the file is properly closed even if an error occurs."
+  },
+  {
+    "id": "PYTHON_144",
+    "language": "Python",
+    "question": "Why use with open() in simple words?",
+    "answer": "The with statement ensures the file is properly closed even if an error occurs."
+  },
+  {
+    "id": "PYTHON_145",
+    "language": "Python",
+    "question": "What is JSON in Python?",
+    "answer": "The json module converts between Python data and JSON text using functions such as dumps, loads, dump, and load."
+  },
+  {
+    "id": "PYTHON_146",
+    "language": "Python",
+    "question": "What is JSON in Python in simple words?",
+    "answer": "The json module converts between Python data and JSON text using functions such as dumps, loads, dump, and load."
+  },
+  {
+    "id": "PYTHON_147",
+    "language": "Python",
+    "question": "How do you install a package?",
+    "answer": "Use python -m pip install package_name, preferably while the project's virtual environment is active."
+  },
+  {
+    "id": "PYTHON_148",
+    "language": "Python",
+    "question": "How do you install a package in simple words?",
+    "answer": "Use python -m pip install package_name, preferably while the project's virtual environment is active."
+  },
+  {
+    "id": "PYTHON_149",
+    "language": "Python",
+    "question": "What is a Boolean?",
+    "answer": "bool has two values, True and False, and is used in conditions and logical operations."
+  },
+  {
+    "id": "PYTHON_150",
+    "language": "Python",
+    "question": "What is a Boolean in simple words?",
+    "answer": "bool has two values, True and False, and is used in conditions and logical operations."
+  },
+  {
+    "id": "PYTHON_151",
+    "language": "Python",
+    "question": "What are logical operators?",
+    "answer": "and, or, and not combine or invert Boolean conditions."
+  },
+  {
+    "id": "PYTHON_152",
+    "language": "Python",
+    "question": "What are logical operators in simple words?",
+    "answer": "and, or, and not combine or invert Boolean conditions."
+  },
+  {
+    "id": "PYTHON_153",
+    "language": "Python",
+    "question": "What is the difference between == and is?",
+    "answer": "== compares values for equality; is checks whether two references point to the same object."
+  },
+  {
+    "id": "PYTHON_154",
+    "language": "Python",
+    "question": "What is the difference between == and is in simple words?",
+    "answer": "== compares values for equality; is checks whether two references point to the same object."
+  },
+  {
+    "id": "PYTHON_155",
+    "language": "Python",
+    "question": "What is a mutable object?",
+    "answer": "A mutable object can be changed after creation; lists, dictionaries, and sets are common examples."
+  },
+  {
+    "id": "PYTHON_156",
+    "language": "Python",
+    "question": "What is a mutable object in simple words?",
+    "answer": "A mutable object can be changed after creation; lists, dictionaries, and sets are common examples."
+  },
+  {
+    "id": "PYTHON_157",
+    "language": "Python",
+    "question": "What is an immutable object?",
+    "answer": "An immutable object cannot be changed after creation; int, float, str, and tuple are common examples."
+  },
+  {
+    "id": "PYTHON_158",
+    "language": "Python",
+    "question": "What is an immutable object in simple words?",
+    "answer": "An immutable object cannot be changed after creation; int, float, str, and tuple are common examples."
+  },
+  {
+    "id": "PYTHON_159",
+    "language": "Python",
+    "question": "What is map()?",
+    "answer": "map(function, iterable) lazily applies a function to each item and returns an iterator."
+  },
+  {
+    "id": "PYTHON_160",
+    "language": "Python",
+    "question": "What is map() in simple words?",
+    "answer": "map(function, iterable) lazily applies a function to each item and returns an iterator."
+  },
+  {
+    "id": "PYTHON_161",
+    "language": "Python",
+    "question": "What is filter()?",
+    "answer": "filter(function, iterable) lazily keeps items for which the function returns a truthy result."
+  },
+  {
+    "id": "PYTHON_162",
+    "language": "Python",
+    "question": "What is filter() in simple words?",
+    "answer": "filter(function, iterable) lazily keeps items for which the function returns a truthy result."
+  },
+  {
+    "id": "PYTHON_163",
+    "language": "Python",
+    "question": "What is sorted()?",
+    "answer": "sorted(iterable) returns a new sorted list and leaves the original iterable unchanged."
+  },
+  {
+    "id": "PYTHON_164",
+    "language": "Python",
+    "question": "What is sorted() in simple words?",
+    "answer": "sorted(iterable) returns a new sorted list and leaves the original iterable unchanged."
+  },
+  {
+    "id": "PYTHON_165",
+    "language": "Python",
+    "question": "What is enumerate()?",
+    "answer": "enumerate(iterable) yields index-item pairs, useful when a loop needs both position and value."
+  },
+  {
+    "id": "PYTHON_166",
+    "language": "Python",
+    "question": "What is enumerate() in simple words?",
+    "answer": "enumerate(iterable) yields index-item pairs, useful when a loop needs both position and value."
+  },
+  {
+    "id": "PYTHON_167",
+    "language": "Python",
+    "question": "What is zip()?",
+    "answer": "zip() combines corresponding items from multiple iterables into tuples and stops at the shortest iterable by default."
+  },
+  {
+    "id": "PYTHON_168",
+    "language": "Python",
+    "question": "What is zip() in simple words?",
+    "answer": "zip() combines corresponding items from multiple iterables into tuples and stops at the shortest iterable by default."
+  },
+  {
+    "id": "PYTHON_169",
+    "language": "Python",
+    "question": "What is a docstring?",
+    "answer": "A docstring is a string literal placed at the start of a module, class, or function to document its purpose."
+  },
+  {
+    "id": "PYTHON_170",
+    "language": "Python",
+    "question": "What is a docstring in simple words?",
+    "answer": "A docstring is a string literal placed at the start of a module, class, or function to document its purpose."
+  },
+  {
+    "id": "PYTHON_171",
+    "language": "Python",
+    "question": "What is a type hint?",
+    "answer": "A type hint annotates the expected types of variables, parameters, or return values; it is not usually enforced at runtime."
+  },
+  {
+    "id": "PYTHON_172",
+    "language": "Python",
+    "question": "What is a type hint in simple words?",
+    "answer": "A type hint annotates the expected types of variables, parameters, or return values; it is not usually enforced at runtime."
+  },
+  {
+    "id": "PYTHON_173",
+    "language": "Python",
+    "question": "What is a virtual machine in Python?",
+    "answer": "The Python virtual machine executes compiled Python bytecode; implementation details vary between Python implementations."
+  },
+  {
+    "id": "PYTHON_174",
+    "language": "Python",
+    "question": "What is a virtual machine in Python in simple words?",
+    "answer": "The Python virtual machine executes compiled Python bytecode; implementation details vary between Python implementations."
+  },
+  {
+    "id": "PYTHON_175",
+    "language": "Python",
+    "question": "What is garbage collection?",
+    "answer": "Garbage collection reclaims memory used by objects that are no longer reachable; CPython also uses reference counting."
+  },
+  {
+    "id": "PYTHON_176",
+    "language": "Python",
+    "question": "What is garbage collection in simple words?",
+    "answer": "Garbage collection reclaims memory used by objects that are no longer reachable; CPython also uses reference counting."
+  },
+  {
+    "id": "PYTHON_177",
+    "language": "Python",
+    "question": "What is the Global Interpreter Lock?",
+    "answer": "In CPython, the GIL traditionally allows only one thread at a time to execute Python bytecode in a process, though this is version/build dependent."
+  },
+  {
+    "id": "PYTHON_178",
+    "language": "Python",
+    "question": "What is the Global Interpreter Lock in simple words?",
+    "answer": "In CPython, the GIL traditionally allows only one thread at a time to execute Python bytecode in a process, though this is version/build dependent."
+  },
+  {
+    "id": "PYTHON_179",
+    "language": "Python",
+    "question": "What is threading?",
+    "answer": "Threading runs multiple threads within one process and is often useful for overlapping I/O-bound tasks."
+  },
+  {
+    "id": "PYTHON_180",
+    "language": "Python",
+    "question": "What is threading in simple words?",
+    "answer": "Threading runs multiple threads within one process and is often useful for overlapping I/O-bound tasks."
+  },
+  {
+    "id": "PYTHON_181",
+    "language": "Python",
+    "question": "What is multiprocessing?",
+    "answer": "Multiprocessing uses separate processes and can run CPU-bound Python work in parallel across cores."
+  },
+  {
+    "id": "PYTHON_182",
+    "language": "Python",
+    "question": "What is multiprocessing in simple words?",
+    "answer": "Multiprocessing uses separate processes and can run CPU-bound Python work in parallel across cores."
+  },
+  {
+    "id": "PYTHON_183",
+    "language": "Python",
+    "question": "What is asyncio?",
+    "answer": "asyncio provides event-loop-based concurrency using async and await, especially for many I/O-bound tasks."
+  },
+  {
+    "id": "PYTHON_184",
+    "language": "Python",
+    "question": "What is asyncio in simple words?",
+    "answer": "asyncio provides event-loop-based concurrency using async and await, especially for many I/O-bound tasks."
+  },
+  {
+    "id": "PYTHON_185",
+    "language": "Python",
+    "question": "What is a context manager?",
+    "answer": "A context manager manages setup and cleanup around a with block, commonly through __enter__ and __exit__."
+  },
+  {
+    "id": "PYTHON_186",
+    "language": "Python",
+    "question": "What is a context manager in simple words?",
+    "answer": "A context manager manages setup and cleanup around a with block, commonly through __enter__ and __exit__."
+  },
+  {
+    "id": "PYTHON_187",
+    "language": "Python",
+    "question": "What is an abstract base class?",
+    "answer": "An abstract base class defines a common interface and can prevent instantiation until required abstract methods are implemented."
+  },
+  {
+    "id": "PYTHON_188",
+    "language": "Python",
+    "question": "What is an abstract base class in simple words?",
+    "answer": "An abstract base class defines a common interface and can prevent instantiation until required abstract methods are implemented."
+  },
+  {
+    "id": "PYTHON_189",
+    "language": "Python",
+    "question": "What is __str__?",
+    "answer": "__str__ returns a human-readable string representation of an object."
+  },
+  {
+    "id": "PYTHON_190",
+    "language": "Python",
+    "question": "What is __str__ in simple words?",
+    "answer": "__str__ returns a human-readable string representation of an object."
+  },
+  {
+    "id": "PYTHON_191",
+    "language": "Python",
+    "question": "What is __repr__?",
+    "answer": "__repr__ returns a developer-oriented representation intended to be unambiguous where practical."
+  },
+  {
+    "id": "PYTHON_192",
+    "language": "Python",
+    "question": "What is __repr__ in simple words?",
+    "answer": "__repr__ returns a developer-oriented representation intended to be unambiguous where practical."
+  },
+  {
+    "id": "PYTHON_193",
+    "language": "Python",
+    "question": "What is unit testing?",
+    "answer": "Unit testing checks small pieces of code independently, often using unittest or pytest."
+  },
+  {
+    "id": "PYTHON_194",
+    "language": "Python",
+    "question": "What is unit testing in simple words?",
+    "answer": "Unit testing checks small pieces of code independently, often using unittest or pytest."
+  },
+  {
+    "id": "PYTHON_195",
+    "language": "Python",
+    "question": "What is pytest?",
+    "answer": "pytest is a popular Python testing framework that discovers tests and provides concise assertions and fixtures."
+  },
+  {
+    "id": "PYTHON_196",
+    "language": "Python",
+    "question": "What is pytest in simple words?",
+    "answer": "pytest is a popular Python testing framework that discovers tests and provides concise assertions and fixtures."
+  },
+  {
+    "id": "PYTHON_197",
+    "language": "Python",
+    "question": "What is debugging?",
+    "answer": "Debugging is the process of finding, understanding, and fixing defects in a program."
+  },
+  {
+    "id": "PYTHON_198",
+    "language": "Python",
+    "question": "What is debugging in simple words?",
+    "answer": "Debugging is the process of finding, understanding, and fixing defects in a program."
+  },
+  {
+    "id": "PYTHON_199",
+    "language": "Python",
+    "question": "What is a breakpoint?",
+    "answer": "A breakpoint pauses program execution at a chosen line so variables and program flow can be inspected."
+  },
+  {
+    "id": "PYTHON_200",
+    "language": "Python",
+    "question": "What is a breakpoint in simple words?",
+    "answer": "A breakpoint pauses program execution at a chosen line so variables and program flow can be inspected."
+  },
+  {
+    "id": "PYTHON_201",
+    "language": "Python",
+    "question": "What is NumPy used for?",
+    "answer": "NumPy provides efficient multidimensional arrays and numerical operations for scientific computing."
+  },
+  {
+    "id": "PYTHON_202",
+    "language": "Python",
+    "question": "What is NumPy used for in simple words?",
+    "answer": "NumPy provides efficient multidimensional arrays and numerical operations for scientific computing."
+  },
+  {
+    "id": "PYTHON_203",
+    "language": "Python",
+    "question": "What is pandas used for?",
+    "answer": "pandas provides Series and DataFrame structures for data cleaning, analysis, and manipulation."
+  },
+  {
+    "id": "PYTHON_204",
+    "language": "Python",
+    "question": "What is pandas used for in simple words?",
+    "answer": "pandas provides Series and DataFrame structures for data cleaning, analysis, and manipulation."
+  },
+  {
+    "id": "PYTHON_205",
+    "language": "Python",
+    "question": "What is Matplotlib used for?",
+    "answer": "Matplotlib is a plotting library used to create charts and visualizations in Python."
+  },
+  {
+    "id": "PYTHON_206",
+    "language": "Python",
+    "question": "What is Matplotlib used for in simple words?",
+    "answer": "Matplotlib is a plotting library used to create charts and visualizations in Python."
+  },
+  {
+    "id": "PYTHON_207",
+    "language": "Python",
+    "question": "What is Flask?",
+    "answer": "Flask is a lightweight Python web framework for building web applications and APIs."
+  },
+  {
+    "id": "PYTHON_208",
+    "language": "Python",
+    "question": "What is Flask in simple words?",
+    "answer": "Flask is a lightweight Python web framework for building web applications and APIs."
+  },
+  {
+    "id": "PYTHON_209",
+    "language": "Python",
+    "question": "What is Django?",
+    "answer": "Django is a full-featured Python web framework with built-in components for routing, ORM, authentication, and administration."
+  },
+  {
+    "id": "PYTHON_210",
+    "language": "Python",
+    "question": "What is Django in simple words?",
+    "answer": "Django is a full-featured Python web framework with built-in components for routing, ORM, authentication, and administration."
+  },
+  {
+    "id": "PYTHON_211",
+    "language": "Python",
+    "question": "What is an API?",
+    "answer": "An API is a defined interface through which software components communicate; a web API commonly uses HTTP."
+  },
+  {
+    "id": "PYTHON_212",
+    "language": "Python",
+    "question": "What is an API in simple words?",
+    "answer": "An API is a defined interface through which software components communicate; a web API commonly uses HTTP."
+  },
+  {
+    "id": "PYTHON_213",
+    "language": "Python",
+    "question": "How do you make an HTTP request in Python?",
+    "answer": "A common approach is the requests package, for example requests.get(url, timeout=10), with appropriate error handling."
+  },
+  {
+    "id": "PYTHON_214",
+    "language": "Python",
+    "question": "How do you make an HTTP request in Python in simple words?",
+    "answer": "A common approach is the requests package, for example requests.get(url, timeout=10), with appropriate error handling."
+  },
+  {
+    "id": "PYTHON_215",
+    "language": "Python",
+    "question": "What is a virtual environment activation step?",
+    "answer": "Activate the environment using the command appropriate to the shell, then install dependencies inside it."
+  },
+  {
+    "id": "PYTHON_216",
+    "language": "Python",
+    "question": "What is a virtual environment activation step in simple words?",
+    "answer": "Activate the environment using the command appropriate to the shell, then install dependencies inside it."
+  },
+  {
+    "id": "PYTHON_217",
+    "language": "Python",
+    "question": "What is the difference between append() and extend()?",
+    "answer": "append() adds its argument as one item; extend() adds each item from an iterable."
+  },
+  {
+    "id": "PYTHON_218",
+    "language": "Python",
+    "question": "What is the difference between append() and extend() in simple words?",
+    "answer": "append() adds its argument as one item; extend() adds each item from an iterable."
+  },
+  {
+    "id": "PYTHON_219",
+    "language": "Python",
+    "question": "What is the difference between remove() and pop()?",
+    "answer": "remove(value) deletes the first matching value; pop(index) removes and returns an item by position."
+  },
+  {
+    "id": "PYTHON_220",
+    "language": "Python",
+    "question": "What is the difference between remove() and pop() in simple words?",
+    "answer": "remove(value) deletes the first matching value; pop(index) removes and returns an item by position."
+  },
+  {
+    "id": "PYTHON_221",
+    "language": "Python",
+    "question": "What is a shallow copy?",
+    "answer": "A shallow copy creates a new outer container but keeps references to the original nested objects."
+  },
+  {
+    "id": "PYTHON_222",
+    "language": "Python",
+    "question": "What is a shallow copy in simple words?",
+    "answer": "A shallow copy creates a new outer container but keeps references to the original nested objects."
+  },
+  {
+    "id": "PYTHON_223",
+    "language": "Python",
+    "question": "What is a deep copy?",
+    "answer": "A deep copy recursively copies nested objects, commonly using copy.deepcopy()."
+  },
+  {
+    "id": "PYTHON_224",
+    "language": "Python",
+    "question": "What is a deep copy in simple words?",
+    "answer": "A deep copy recursively copies nested objects, commonly using copy.deepcopy()."
+  },
+  {
+    "id": "PYTHON_225",
+    "language": "Python",
+    "question": "What is a namespace?",
+    "answer": "A namespace maps names to objects and helps prevent naming collisions between scopes or modules."
+  },
+  {
+    "id": "PYTHON_226",
+    "language": "Python",
+    "question": "What is a namespace in simple words?",
+    "answer": "A namespace maps names to objects and helps prevent naming collisions between scopes or modules."
+  },
+  {
+    "id": "PYTHON_227",
+    "language": "Python",
+    "question": "What is scope?",
+    "answer": "Scope determines where a name can be accessed; Python commonly follows the LEGB lookup rule."
+  },
+  {
+    "id": "PYTHON_228",
+    "language": "Python",
+    "question": "What is scope in simple words?",
+    "answer": "Scope determines where a name can be accessed; Python commonly follows the LEGB lookup rule."
+  },
+  {
+    "id": "PYTHON_229",
+    "language": "Python",
+    "question": "What is the LEGB rule?",
+    "answer": "Python resolves names in Local, Enclosing, Global, then Built-in scopes."
+  },
+  {
+    "id": "PYTHON_230",
+    "language": "Python",
+    "question": "What is the LEGB rule in simple words?",
+    "answer": "Python resolves names in Local, Enclosing, Global, then Built-in scopes."
+  },
+  {
+    "id": "PYTHON_231",
+    "language": "Python",
+    "question": "What is a closure?",
+    "answer": "A closure is a function that retains access to variables from its enclosing lexical scope."
+  },
+  {
+    "id": "PYTHON_232",
+    "language": "Python",
+    "question": "What is a closure in simple words?",
+    "answer": "A closure is a function that retains access to variables from its enclosing lexical scope."
+  },
+  {
+    "id": "PYTHON_233",
+    "language": "Python",
+    "question": "What is a property?",
+    "answer": "A property exposes method logic through attribute-style access, often using @property and setter decorators."
+  },
+  {
+    "id": "PYTHON_234",
+    "language": "Python",
+    "question": "What is a property in simple words?",
+    "answer": "A property exposes method logic through attribute-style access, often using @property and setter decorators."
+  },
+  {
+    "id": "PYTHON_235",
+    "language": "Python",
+    "question": "What is a dataclass?",
+    "answer": "dataclasses.dataclass can generate methods such as __init__ and __repr__ for classes primarily used to store data."
+  },
+  {
+    "id": "PYTHON_236",
+    "language": "Python",
+    "question": "What is a dataclass in simple words?",
+    "answer": "dataclasses.dataclass can generate methods such as __init__ and __repr__ for classes primarily used to store data."
+  },
+  {
+    "id": "PYTHON_237",
+    "language": "Python",
+    "question": "What is structural pattern matching?",
+    "answer": "match/case selects behavior based on the shape or value of data, introduced in Python 3.10."
+  },
+  {
+    "id": "PYTHON_238",
+    "language": "Python",
+    "question": "What is structural pattern matching in simple words?",
+    "answer": "match/case selects behavior based on the shape or value of data, introduced in Python 3.10."
+  },
+  {
+    "id": "PYTHON_239",
+    "language": "Python",
+    "question": "What is a set comprehension?",
+    "answer": "A set comprehension creates a set concisely, for example {x*x for x in values}."
+  },
+  {
+    "id": "PYTHON_240",
+    "language": "Python",
+    "question": "What is a set comprehension in simple words?",
+    "answer": "A set comprehension creates a set concisely, for example {x*x for x in values}."
+  },
+  {
+    "id": "PYTHON_241",
+    "language": "Python",
+    "question": "What is a bytes object?",
+    "answer": "bytes is an immutable sequence of integers in the range 0 to 255, often used for binary data."
+  },
+  {
+    "id": "PYTHON_242",
+    "language": "Python",
+    "question": "What is a bytes object in simple words?",
+    "answer": "bytes is an immutable sequence of integers in the range 0 to 255, often used for binary data."
+  },
+  {
+    "id": "PYTHON_243",
+    "language": "Python",
+    "question": "How do you convert a string to lowercase?",
+    "answer": "Use text.lower(), which returns a lowercase copy of the string."
+  },
+  {
+    "id": "PYTHON_244",
+    "language": "Python",
+    "question": "How do you convert a string to lowercase in simple words?",
+    "answer": "Use text.lower(), which returns a lowercase copy of the string."
+  },
+  {
+    "id": "PYTHON_245",
+    "language": "Python",
+    "question": "How do you handle a missing dictionary key?",
+    "answer": "Use get(), check membership with in, or handle KeyError when direct indexing is appropriate."
+  },
+  {
+    "id": "PYTHON_246",
+    "language": "Python",
+    "question": "How do you handle a missing dictionary key in simple words?",
+    "answer": "Use get(), check membership with in, or handle KeyError when direct indexing is appropriate."
+  },
+  {
+    "id": "PYTHON_247",
+    "language": "Python",
+    "question": "What is a Python package dependency file?",
+    "answer": "A file such as requirements.txt lists project dependencies so they can be installed consistently with pip."
+  },
+  {
+    "id": "PYTHON_248",
+    "language": "Python",
+    "question": "What is a Python package dependency file in simple words?",
+    "answer": "A file such as requirements.txt lists project dependencies so they can be installed consistently with pip."
+  },
+  {
+    "id": "PYTHON_249",
+    "language": "Python",
+    "question": "What is the purpose of __name__?",
+    "answer": "__name__ is a module attribute; it is '__main__' when the file is run as the entry point."
+  },
+  {
+    "id": "PYTHON_250",
+    "language": "Python",
+    "question": "What is the purpose of __name__ in simple words?",
+    "answer": "__name__ is a module attribute; it is '__main__' when the file is run as the entry point."
+  },
+  {
+    "id": "JAVA_001",
+    "language": "Java",
+    "question": "What is Java?",
+    "answer": "Java is a class-based, object-oriented programming language designed for portability across platforms through the Java Virtual Machine."
+  },
+  {
+    "id": "JAVA_002",
+    "language": "Java",
+    "question": "What is Java in simple words?",
+    "answer": "Java is a class-based, object-oriented programming language designed for portability across platforms through the Java Virtual Machine."
+  },
+  {
+    "id": "JAVA_003",
+    "language": "Java",
+    "question": "Who created Java?",
+    "answer": "Java was originally developed at Sun Microsystems by a team led by James Gosling and released in 1995."
+  },
+  {
+    "id": "JAVA_004",
+    "language": "Java",
+    "question": "Who created Java in simple words?",
+    "answer": "Java was originally developed at Sun Microsystems by a team led by James Gosling and released in 1995."
+  },
+  {
+    "id": "JAVA_005",
+    "language": "Java",
+    "question": "What is the JVM?",
+    "answer": "The Java Virtual Machine executes Java bytecode and provides runtime services such as memory management and garbage collection."
+  },
+  {
+    "id": "JAVA_006",
+    "language": "Java",
+    "question": "What is the JVM in simple words?",
+    "answer": "The Java Virtual Machine executes Java bytecode and provides runtime services such as memory management and garbage collection."
+  },
+  {
+    "id": "JAVA_007",
+    "language": "Java",
+    "question": "What is the JRE?",
+    "answer": "The Java Runtime Environment traditionally refers to the JVM plus libraries and components needed to run Java applications."
+  },
+  {
+    "id": "JAVA_008",
+    "language": "Java",
+    "question": "What is the JRE in simple words?",
+    "answer": "The Java Runtime Environment traditionally refers to the JVM plus libraries and components needed to run Java applications."
+  },
+  {
+    "id": "JAVA_009",
+    "language": "Java",
+    "question": "What is the JDK?",
+    "answer": "The Java Development Kit includes tools such as the compiler and runtime components needed to develop Java programs."
+  },
+  {
+    "id": "JAVA_010",
+    "language": "Java",
+    "question": "What is the JDK in simple words?",
+    "answer": "The Java Development Kit includes tools such as the compiler and runtime components needed to develop Java programs."
+  },
+  {
+    "id": "JAVA_011",
+    "language": "Java",
+    "question": "Why is Java platform independent?",
+    "answer": "Java source is compiled to bytecode, which can run on compatible JVM implementations on different operating systems."
+  },
+  {
+    "id": "JAVA_012",
+    "language": "Java",
+    "question": "Why is Java platform independent in simple words?",
+    "answer": "Java source is compiled to bytecode, which can run on compatible JVM implementations on different operating systems."
+  },
+  {
+    "id": "JAVA_013",
+    "language": "Java",
+    "question": "What is bytecode?",
+    "answer": "Bytecode is the platform-neutral instruction format produced by the Java compiler and executed by a JVM."
+  },
+  {
+    "id": "JAVA_014",
+    "language": "Java",
+    "question": "What is bytecode in simple words?",
+    "answer": "Bytecode is the platform-neutral instruction format produced by the Java compiler and executed by a JVM."
+  },
+  {
+    "id": "JAVA_015",
+    "language": "Java",
+    "question": "What is a class?",
+    "answer": "A class is a blueprint that defines fields, constructors, and methods for objects."
+  },
+  {
+    "id": "JAVA_016",
+    "language": "Java",
+    "question": "What is a class in simple words?",
+    "answer": "A class is a blueprint that defines fields, constructors, and methods for objects."
+  },
+  {
+    "id": "JAVA_017",
+    "language": "Java",
+    "question": "What is an object?",
+    "answer": "An object is a runtime instance of a class with state and behavior."
+  },
+  {
+    "id": "JAVA_018",
+    "language": "Java",
+    "question": "What is an object in simple words?",
+    "answer": "An object is a runtime instance of a class with state and behavior."
+  },
+  {
+    "id": "JAVA_019",
+    "language": "Java",
+    "question": "What is the main method?",
+    "answer": "public static void main(String[] args) is the conventional entry point used to launch a Java application."
+  },
+  {
+    "id": "JAVA_020",
+    "language": "Java",
+    "question": "What is the main method in simple words?",
+    "answer": "public static void main(String[] args) is the conventional entry point used to launch a Java application."
+  },
+  {
+    "id": "JAVA_021",
+    "language": "Java",
+    "question": "What does public mean?",
+    "answer": "public makes a class member accessible from code that can access its declaring class or package."
+  },
+  {
+    "id": "JAVA_022",
+    "language": "Java",
+    "question": "What does public mean in simple words?",
+    "answer": "public makes a class member accessible from code that can access its declaring class or package."
+  },
+  {
+    "id": "JAVA_023",
+    "language": "Java",
+    "question": "What does static mean?",
+    "answer": "static makes a member belong to the class rather than to a particular instance."
+  },
+  {
+    "id": "JAVA_024",
+    "language": "Java",
+    "question": "What does static mean in simple words?",
+    "answer": "static makes a member belong to the class rather than to a particular instance."
+  },
+  {
+    "id": "JAVA_025",
+    "language": "Java",
+    "question": "What does void mean?",
+    "answer": "void indicates that a method does not return a value."
+  },
+  {
+    "id": "JAVA_026",
+    "language": "Java",
+    "question": "What does void mean in simple words?",
+    "answer": "void indicates that a method does not return a value."
+  },
+  {
+    "id": "JAVA_027",
+    "language": "Java",
+    "question": "What is a variable?",
+    "answer": "A variable is a named storage location with a declared type, such as int age = 20."
+  },
+  {
+    "id": "JAVA_028",
+    "language": "Java",
+    "question": "What is a variable in simple words?",
+    "answer": "A variable is a named storage location with a declared type, such as int age = 20."
+  },
+  {
+    "id": "JAVA_029",
+    "language": "Java",
+    "question": "What are Java primitive types?",
+    "answer": "Java has eight primitives: byte, short, int, long, float, double, char, and boolean."
+  },
+  {
+    "id": "JAVA_030",
+    "language": "Java",
+    "question": "What are Java primitive types in simple words?",
+    "answer": "Java has eight primitives: byte, short, int, long, float, double, char, and boolean."
+  },
+  {
+    "id": "JAVA_031",
+    "language": "Java",
+    "question": "What is a reference type?",
+    "answer": "A reference variable holds a reference to an object, such as a String, array, or class instance."
+  },
+  {
+    "id": "JAVA_032",
+    "language": "Java",
+    "question": "What is a reference type in simple words?",
+    "answer": "A reference variable holds a reference to an object, such as a String, array, or class instance."
+  },
+  {
+    "id": "JAVA_033",
+    "language": "Java",
+    "question": "What is the difference between int and Integer?",
+    "answer": "int is a primitive; Integer is its wrapper class and can be used where objects or null are required."
+  },
+  {
+    "id": "JAVA_034",
+    "language": "Java",
+    "question": "What is the difference between int and Integer in simple words?",
+    "answer": "int is a primitive; Integer is its wrapper class and can be used where objects or null are required."
+  },
+  {
+    "id": "JAVA_035",
+    "language": "Java",
+    "question": "What is autoboxing?",
+    "answer": "Autoboxing automatically converts a primitive value to its corresponding wrapper object when needed."
+  },
+  {
+    "id": "JAVA_036",
+    "language": "Java",
+    "question": "What is autoboxing in simple words?",
+    "answer": "Autoboxing automatically converts a primitive value to its corresponding wrapper object when needed."
+  },
+  {
+    "id": "JAVA_037",
+    "language": "Java",
+    "question": "What is unboxing?",
+    "answer": "Unboxing automatically converts a wrapper object to its corresponding primitive value."
+  },
+  {
+    "id": "JAVA_038",
+    "language": "Java",
+    "question": "What is unboxing in simple words?",
+    "answer": "Unboxing automatically converts a wrapper object to its corresponding primitive value."
+  },
+  {
+    "id": "JAVA_039",
+    "language": "Java",
+    "question": "What is a String?",
+    "answer": "String is an immutable class representing a sequence of characters."
+  },
+  {
+    "id": "JAVA_040",
+    "language": "Java",
+    "question": "What is a String in simple words?",
+    "answer": "String is an immutable class representing a sequence of characters."
+  },
+  {
+    "id": "JAVA_041",
+    "language": "Java",
+    "question": "Why is String immutable?",
+    "answer": "Immutability supports safe sharing, stable hashing, and predictable behavior; operations that appear to modify a String create a new String."
+  },
+  {
+    "id": "JAVA_042",
+    "language": "Java",
+    "question": "Why is String immutable in simple words?",
+    "answer": "Immutability supports safe sharing, stable hashing, and predictable behavior; operations that appear to modify a String create a new String."
+  },
+  {
+    "id": "JAVA_043",
+    "language": "Java",
+    "question": "How do you compare strings?",
+    "answer": "Use equals() to compare string contents; == compares object references."
+  },
+  {
+    "id": "JAVA_044",
+    "language": "Java",
+    "question": "How do you compare strings in simple words?",
+    "answer": "Use equals() to compare string contents; == compares object references."
+  },
+  {
+    "id": "JAVA_045",
+    "language": "Java",
+    "question": "What is StringBuilder?",
+    "answer": "StringBuilder is a mutable character sequence useful for efficiently building strings through repeated changes."
+  },
+  {
+    "id": "JAVA_046",
+    "language": "Java",
+    "question": "What is StringBuilder in simple words?",
+    "answer": "StringBuilder is a mutable character sequence useful for efficiently building strings through repeated changes."
+  },
+  {
+    "id": "JAVA_047",
+    "language": "Java",
+    "question": "What is an array?",
+    "answer": "An array is a fixed-length object that stores elements of one declared type and uses zero-based indexing."
+  },
+  {
+    "id": "JAVA_048",
+    "language": "Java",
+    "question": "What is an array in simple words?",
+    "answer": "An array is a fixed-length object that stores elements of one declared type and uses zero-based indexing."
+  },
+  {
+    "id": "JAVA_049",
+    "language": "Java",
+    "question": "How do you find an array's length?",
+    "answer": "Use the array's length field, for example numbers.length."
+  },
+  {
+    "id": "JAVA_050",
+    "language": "Java",
+    "question": "How do you find an array's length in simple words?",
+    "answer": "Use the array's length field, for example numbers.length."
+  },
+  {
+    "id": "JAVA_051",
+    "language": "Java",
+    "question": "What is a loop?",
+    "answer": "A loop repeats a block of code while iterating over a range, condition, or collection."
+  },
+  {
+    "id": "JAVA_052",
+    "language": "Java",
+    "question": "What is a loop in simple words?",
+    "answer": "A loop repeats a block of code while iterating over a range, condition, or collection."
+  },
+  {
+    "id": "JAVA_053",
+    "language": "Java",
+    "question": "What is an enhanced for loop?",
+    "answer": "The enhanced for loop iterates directly over elements of an array or Iterable, for example for (int n : numbers)."
+  },
+  {
+    "id": "JAVA_054",
+    "language": "Java",
+    "question": "What is an enhanced for loop in simple words?",
+    "answer": "The enhanced for loop iterates directly over elements of an array or Iterable, for example for (int n : numbers)."
+  },
+  {
+    "id": "JAVA_055",
+    "language": "Java",
+    "question": "What does break do?",
+    "answer": "break exits the nearest enclosing loop or switch statement."
+  },
+  {
+    "id": "JAVA_056",
+    "language": "Java",
+    "question": "What does break do in simple words?",
+    "answer": "break exits the nearest enclosing loop or switch statement."
+  },
+  {
+    "id": "JAVA_057",
+    "language": "Java",
+    "question": "What does continue do?",
+    "answer": "continue skips the remaining statements in the current loop iteration and proceeds to the next."
+  },
+  {
+    "id": "JAVA_058",
+    "language": "Java",
+    "question": "What does continue do in simple words?",
+    "answer": "continue skips the remaining statements in the current loop iteration and proceeds to the next."
+  },
+  {
+    "id": "JAVA_059",
+    "language": "Java",
+    "question": "What is an if-else statement?",
+    "answer": "if-else selects which block executes based on a boolean condition."
+  },
+  {
+    "id": "JAVA_060",
+    "language": "Java",
+    "question": "What is an if-else statement in simple words?",
+    "answer": "if-else selects which block executes based on a boolean condition."
+  },
+  {
+    "id": "JAVA_061",
+    "language": "Java",
+    "question": "What is a switch statement?",
+    "answer": "switch selects among branches based on a selector value; modern Java also supports switch expressions."
+  },
+  {
+    "id": "JAVA_062",
+    "language": "Java",
+    "question": "What is a switch statement in simple words?",
+    "answer": "switch selects among branches based on a selector value; modern Java also supports switch expressions."
+  },
+  {
+    "id": "JAVA_063",
+    "language": "Java",
+    "question": "What is a method?",
+    "answer": "A method is a named block of code declared in a class or interface and invoked to perform an operation."
+  },
+  {
+    "id": "JAVA_064",
+    "language": "Java",
+    "question": "What is a method in simple words?",
+    "answer": "A method is a named block of code declared in a class or interface and invoked to perform an operation."
+  },
+  {
+    "id": "JAVA_065",
+    "language": "Java",
+    "question": "What is method overloading?",
+    "answer": "Overloading declares multiple methods with the same name but different parameter lists in the same applicable scope."
+  },
+  {
+    "id": "JAVA_066",
+    "language": "Java",
+    "question": "What is method overloading in simple words?",
+    "answer": "Overloading declares multiple methods with the same name but different parameter lists in the same applicable scope."
+  },
+  {
+    "id": "JAVA_067",
+    "language": "Java",
+    "question": "What is method overriding?",
+    "answer": "Overriding lets a subclass provide a compatible implementation of an inherited instance method."
+  },
+  {
+    "id": "JAVA_068",
+    "language": "Java",
+    "question": "What is method overriding in simple words?",
+    "answer": "Overriding lets a subclass provide a compatible implementation of an inherited instance method."
+  },
+  {
+    "id": "JAVA_069",
+    "language": "Java",
+    "question": "What is a constructor?",
+    "answer": "A constructor initializes a new object and has the same name as its class with no return type."
+  },
+  {
+    "id": "JAVA_070",
+    "language": "Java",
+    "question": "What is a constructor in simple words?",
+    "answer": "A constructor initializes a new object and has the same name as its class with no return type."
+  },
+  {
+    "id": "JAVA_071",
+    "language": "Java",
+    "question": "What is a default constructor?",
+    "answer": "If no constructor is declared, the compiler supplies a no-argument default constructor for the class."
+  },
+  {
+    "id": "JAVA_072",
+    "language": "Java",
+    "question": "What is a default constructor in simple words?",
+    "answer": "If no constructor is declared, the compiler supplies a no-argument default constructor for the class."
+  },
+  {
+    "id": "JAVA_073",
+    "language": "Java",
+    "question": "What is this keyword?",
+    "answer": "this refers to the current object and can distinguish instance fields from parameters or call another constructor."
+  },
+  {
+    "id": "JAVA_074",
+    "language": "Java",
+    "question": "What is this keyword in simple words?",
+    "answer": "this refers to the current object and can distinguish instance fields from parameters or call another constructor."
+  },
+  {
+    "id": "JAVA_075",
+    "language": "Java",
+    "question": "What is super keyword?",
+    "answer": "super refers to superclass members and can invoke a superclass constructor or overridden method."
+  },
+  {
+    "id": "JAVA_076",
+    "language": "Java",
+    "question": "What is super keyword in simple words?",
+    "answer": "super refers to superclass members and can invoke a superclass constructor or overridden method."
+  },
+  {
+    "id": "JAVA_077",
+    "language": "Java",
+    "question": "What is inheritance?",
+    "answer": "Inheritance allows a class to extend another class and reuse or specialize its accessible members."
+  },
+  {
+    "id": "JAVA_078",
+    "language": "Java",
+    "question": "What is inheritance in simple words?",
+    "answer": "Inheritance allows a class to extend another class and reuse or specialize its accessible members."
+  },
+  {
+    "id": "JAVA_079",
+    "language": "Java",
+    "question": "Does Java support multiple inheritance of classes?",
+    "answer": "No. A class can extend only one class, but it can implement multiple interfaces."
+  },
+  {
+    "id": "JAVA_080",
+    "language": "Java",
+    "question": "Does Java support multiple inheritance of classes in simple words?",
+    "answer": "No. A class can extend only one class, but it can implement multiple interfaces."
+  },
+  {
+    "id": "JAVA_081",
+    "language": "Java",
+    "question": "What is an interface?",
+    "answer": "An interface defines a contract that implementing classes agree to provide; interfaces can also contain default and static methods."
+  },
+  {
+    "id": "JAVA_082",
+    "language": "Java",
+    "question": "What is an interface in simple words?",
+    "answer": "An interface defines a contract that implementing classes agree to provide; interfaces can also contain default and static methods."
+  },
+  {
+    "id": "JAVA_083",
+    "language": "Java",
+    "question": "What is an abstract class?",
+    "answer": "An abstract class cannot be instantiated directly and can combine abstract methods with implemented behavior and fields."
+  },
+  {
+    "id": "JAVA_084",
+    "language": "Java",
+    "question": "What is an abstract class in simple words?",
+    "answer": "An abstract class cannot be instantiated directly and can combine abstract methods with implemented behavior and fields."
+  },
+  {
+    "id": "JAVA_085",
+    "language": "Java",
+    "question": "What is encapsulation?",
+    "answer": "Encapsulation keeps state and related behavior together and controls access, commonly using private fields and public methods."
+  },
+  {
+    "id": "JAVA_086",
+    "language": "Java",
+    "question": "What is encapsulation in simple words?",
+    "answer": "Encapsulation keeps state and related behavior together and controls access, commonly using private fields and public methods."
+  },
+  {
+    "id": "JAVA_087",
+    "language": "Java",
+    "question": "What is polymorphism?",
+    "answer": "Polymorphism allows a superclass or interface reference to refer to different concrete object types whose overridden behavior is selected at runtime."
+  },
+  {
+    "id": "JAVA_088",
+    "language": "Java",
+    "question": "What is polymorphism in simple words?",
+    "answer": "Polymorphism allows a superclass or interface reference to refer to different concrete object types whose overridden behavior is selected at runtime."
+  },
+  {
+    "id": "JAVA_089",
+    "language": "Java",
+    "question": "What is abstraction?",
+    "answer": "Abstraction exposes essential operations while hiding implementation details, often through interfaces and abstract classes."
+  },
+  {
+    "id": "JAVA_090",
+    "language": "Java",
+    "question": "What is abstraction in simple words?",
+    "answer": "Abstraction exposes essential operations while hiding implementation details, often through interfaces and abstract classes."
+  },
+  {
+    "id": "JAVA_091",
+    "language": "Java",
+    "question": "What is a package?",
+    "answer": "A package groups related types, organizes code, and helps control access and naming."
+  },
+  {
+    "id": "JAVA_092",
+    "language": "Java",
+    "question": "What is a package in simple words?",
+    "answer": "A package groups related types, organizes code, and helps control access and naming."
+  },
+  {
+    "id": "JAVA_093",
+    "language": "Java",
+    "question": "How do you import a class?",
+    "answer": "Use an import declaration such as import java.util.ArrayList; or use its fully qualified name."
+  },
+  {
+    "id": "JAVA_094",
+    "language": "Java",
+    "question": "How do you import a class in simple words?",
+    "answer": "Use an import declaration such as import java.util.ArrayList; or use its fully qualified name."
+  },
+  {
+    "id": "JAVA_095",
+    "language": "Java",
+    "question": "What are access modifiers?",
+    "answer": "public, protected, private, and package-private access control where classes and members can be used."
+  },
+  {
+    "id": "JAVA_096",
+    "language": "Java",
+    "question": "What are access modifiers in simple words?",
+    "answer": "public, protected, private, and package-private access control where classes and members can be used."
+  },
+  {
+    "id": "JAVA_097",
+    "language": "Java",
+    "question": "What is package-private access?",
+    "answer": "A member with no access modifier is accessible to classes in the same package, subject to other language rules."
+  },
+  {
+    "id": "JAVA_098",
+    "language": "Java",
+    "question": "What is package-private access in simple words?",
+    "answer": "A member with no access modifier is accessible to classes in the same package, subject to other language rules."
+  },
+  {
+    "id": "JAVA_099",
+    "language": "Java",
+    "question": "What is a static method?",
+    "answer": "A static method belongs to the class and can be called without creating an instance."
+  },
+  {
+    "id": "JAVA_100",
+    "language": "Java",
+    "question": "What is a static method in simple words?",
+    "answer": "A static method belongs to the class and can be called without creating an instance."
+  },
+  {
+    "id": "JAVA_101",
+    "language": "Java",
+    "question": "Can a static method access instance fields directly?",
+    "answer": "No. It needs an object reference to access instance members because no current instance is implied."
+  },
+  {
+    "id": "JAVA_102",
+    "language": "Java",
+    "question": "Can a static method access instance fields directly in simple words?",
+    "answer": "No. It needs an object reference to access instance members because no current instance is implied."
+  },
+  {
+    "id": "JAVA_103",
+    "language": "Java",
+    "question": "What is final?",
+    "answer": "final can prevent reassignment of a variable, overriding of a method, or subclassing of a class."
+  },
+  {
+    "id": "JAVA_104",
+    "language": "Java",
+    "question": "What is final in simple words?",
+    "answer": "final can prevent reassignment of a variable, overriding of a method, or subclassing of a class."
+  },
+  {
+    "id": "JAVA_105",
+    "language": "Java",
+    "question": "What is a final variable?",
+    "answer": "A final variable can be assigned only once; for a reference, the reference cannot be reassigned, though the object may still be mutable."
+  },
+  {
+    "id": "JAVA_106",
+    "language": "Java",
+    "question": "What is a final variable in simple words?",
+    "answer": "A final variable can be assigned only once; for a reference, the reference cannot be reassigned, though the object may still be mutable."
+  },
+  {
+    "id": "JAVA_107",
+    "language": "Java",
+    "question": "What is an exception?",
+    "answer": "An exception is an event represented by an object that disrupts normal program flow and can be caught or propagated."
+  },
+  {
+    "id": "JAVA_108",
+    "language": "Java",
+    "question": "What is an exception in simple words?",
+    "answer": "An exception is an event represented by an object that disrupts normal program flow and can be caught or propagated."
+  },
+  {
+    "id": "JAVA_109",
+    "language": "Java",
+    "question": "What is try-catch?",
+    "answer": "try encloses code that may throw an exception, and catch handles a matching exception type."
+  },
+  {
+    "id": "JAVA_110",
+    "language": "Java",
+    "question": "What is try-catch in simple words?",
+    "answer": "try encloses code that may throw an exception, and catch handles a matching exception type."
+  },
+  {
+    "id": "JAVA_111",
+    "language": "Java",
+    "question": "What is finally?",
+    "answer": "A finally block normally executes after try/catch completion and is commonly used for cleanup."
+  },
+  {
+    "id": "JAVA_112",
+    "language": "Java",
+    "question": "What is finally in simple words?",
+    "answer": "A finally block normally executes after try/catch completion and is commonly used for cleanup."
+  },
+  {
+    "id": "JAVA_113",
+    "language": "Java",
+    "question": "What is try-with-resources?",
+    "answer": "try-with-resources automatically closes resources that implement AutoCloseable when the block ends."
+  },
+  {
+    "id": "JAVA_114",
+    "language": "Java",
+    "question": "What is try-with-resources in simple words?",
+    "answer": "try-with-resources automatically closes resources that implement AutoCloseable when the block ends."
+  },
+  {
+    "id": "JAVA_115",
+    "language": "Java",
+    "question": "What is the difference between checked and unchecked exceptions?",
+    "answer": "Checked exceptions must be caught or declared; unchecked exceptions are RuntimeException subclasses or Error subclasses and are not subject to that compile-time requirement."
+  },
+  {
+    "id": "JAVA_116",
+    "language": "Java",
+    "question": "What is the difference between checked and unchecked exceptions in simple words?",
+    "answer": "Checked exceptions must be caught or declared; unchecked exceptions are RuntimeException subclasses or Error subclasses and are not subject to that compile-time requirement."
+  },
+  {
+    "id": "JAVA_117",
+    "language": "Java",
+    "question": "What is throw?",
+    "answer": "throw explicitly throws a particular Throwable object."
+  },
+  {
+    "id": "JAVA_118",
+    "language": "Java",
+    "question": "What is throw in simple words?",
+    "answer": "throw explicitly throws a particular Throwable object."
+  },
+  {
+    "id": "JAVA_119",
+    "language": "Java",
+    "question": "What is throws?",
+    "answer": "throws declares exception types that a method may propagate to its caller."
+  },
+  {
+    "id": "JAVA_120",
+    "language": "Java",
+    "question": "What is throws in simple words?",
+    "answer": "throws declares exception types that a method may propagate to its caller."
+  },
+  {
+    "id": "JAVA_121",
+    "language": "Java",
+    "question": "What is the Collections Framework?",
+    "answer": "It is a set of interfaces and classes for working with groups of objects, including List, Set, Queue, and Map."
+  },
+  {
+    "id": "JAVA_122",
+    "language": "Java",
+    "question": "What is the Collections Framework in simple words?",
+    "answer": "It is a set of interfaces and classes for working with groups of objects, including List, Set, Queue, and Map."
+  },
+  {
+    "id": "JAVA_123",
+    "language": "Java",
+    "question": "What is an ArrayList?",
+    "answer": "ArrayList is a resizable-array implementation of List that supports indexed access and allows duplicates."
+  },
+  {
+    "id": "JAVA_124",
+    "language": "Java",
+    "question": "What is an ArrayList in simple words?",
+    "answer": "ArrayList is a resizable-array implementation of List that supports indexed access and allows duplicates."
+  },
+  {
+    "id": "JAVA_125",
+    "language": "Java",
+    "question": "What is a LinkedList?",
+    "answer": "LinkedList is a doubly linked implementation of List and Deque, with node-based storage."
+  },
+  {
+    "id": "JAVA_126",
+    "language": "Java",
+    "question": "What is a LinkedList in simple words?",
+    "answer": "LinkedList is a doubly linked implementation of List and Deque, with node-based storage."
+  },
+  {
+    "id": "JAVA_127",
+    "language": "Java",
+    "question": "What is a HashSet?",
+    "answer": "HashSet stores unique elements and uses hashing; it does not guarantee iteration order."
+  },
+  {
+    "id": "JAVA_128",
+    "language": "Java",
+    "question": "What is a HashSet in simple words?",
+    "answer": "HashSet stores unique elements and uses hashing; it does not guarantee iteration order."
+  },
+  {
+    "id": "JAVA_129",
+    "language": "Java",
+    "question": "What is a TreeSet?",
+    "answer": "TreeSet stores unique elements in sorted order according to natural ordering or a Comparator."
+  },
+  {
+    "id": "JAVA_130",
+    "language": "Java",
+    "question": "What is a TreeSet in simple words?",
+    "answer": "TreeSet stores unique elements in sorted order according to natural ordering or a Comparator."
+  },
+  {
+    "id": "JAVA_131",
+    "language": "Java",
+    "question": "What is a HashMap?",
+    "answer": "HashMap stores key-value mappings, allows one null key and null values, and does not guarantee iteration order."
+  },
+  {
+    "id": "JAVA_132",
+    "language": "Java",
+    "question": "What is a HashMap in simple words?",
+    "answer": "HashMap stores key-value mappings, allows one null key and null values, and does not guarantee iteration order."
+  },
+  {
+    "id": "JAVA_133",
+    "language": "Java",
+    "question": "Can a HashMap contain duplicate keys?",
+    "answer": "No. A key is unique; putting an existing key replaces its associated value."
+  },
+  {
+    "id": "JAVA_134",
+    "language": "Java",
+    "question": "Can a HashMap contain duplicate keys in simple words?",
+    "answer": "No. A key is unique; putting an existing key replaces its associated value."
+  },
+  {
+    "id": "JAVA_135",
+    "language": "Java",
+    "question": "What is an Iterator?",
+    "answer": "An Iterator traverses a collection using methods such as hasNext() and next(), and may support remove()."
+  },
+  {
+    "id": "JAVA_136",
+    "language": "Java",
+    "question": "What is an Iterator in simple words?",
+    "answer": "An Iterator traverses a collection using methods such as hasNext() and next(), and may support remove()."
+  },
+  {
+    "id": "JAVA_137",
+    "language": "Java",
+    "question": "What is generics?",
+    "answer": "Generics provide compile-time type parameters for classes, interfaces, and methods, improving type safety and reducing casts."
+  },
+  {
+    "id": "JAVA_138",
+    "language": "Java",
+    "question": "What is generics in simple words?",
+    "answer": "Generics provide compile-time type parameters for classes, interfaces, and methods, improving type safety and reducing casts."
+  },
+  {
+    "id": "JAVA_139",
+    "language": "Java",
+    "question": "What is a generic type parameter?",
+    "answer": "A type parameter such as T represents a type supplied when using a generic class, interface, or method."
+  },
+  {
+    "id": "JAVA_140",
+    "language": "Java",
+    "question": "What is a generic type parameter in simple words?",
+    "answer": "A type parameter such as T represents a type supplied when using a generic class, interface, or method."
+  },
+  {
+    "id": "JAVA_141",
+    "language": "Java",
+    "question": "What is an enum?",
+    "answer": "An enum defines a fixed set of named constants as a distinct type."
+  },
+  {
+    "id": "JAVA_142",
+    "language": "Java",
+    "question": "What is an enum in simple words?",
+    "answer": "An enum defines a fixed set of named constants as a distinct type."
+  },
+  {
+    "id": "JAVA_143",
+    "language": "Java",
+    "question": "What is a wrapper class?",
+    "answer": "A wrapper class represents a primitive value as an object, such as Integer for int or Boolean for boolean."
+  },
+  {
+    "id": "JAVA_144",
+    "language": "Java",
+    "question": "What is a wrapper class in simple words?",
+    "answer": "A wrapper class represents a primitive value as an object, such as Integer for int or Boolean for boolean."
+  },
+  {
+    "id": "JAVA_145",
+    "language": "Java",
+    "question": "What is garbage collection?",
+    "answer": "The JVM automatically reclaims heap memory used by objects that are no longer reachable."
+  },
+  {
+    "id": "JAVA_146",
+    "language": "Java",
+    "question": "What is garbage collection in simple words?",
+    "answer": "The JVM automatically reclaims heap memory used by objects that are no longer reachable."
+  },
+  {
+    "id": "JAVA_147",
+    "language": "Java",
+    "question": "What is the heap?",
+    "answer": "The heap is the runtime memory area where Java objects and arrays are generally allocated."
+  },
+  {
+    "id": "JAVA_148",
+    "language": "Java",
+    "question": "What is the heap in simple words?",
+    "answer": "The heap is the runtime memory area where Java objects and arrays are generally allocated."
+  },
+  {
+    "id": "JAVA_149",
+    "language": "Java",
+    "question": "What is the stack?",
+    "answer": "Each thread has a stack that stores method frames, including local variables and intermediate execution state."
+  },
+  {
+    "id": "JAVA_150",
+    "language": "Java",
+    "question": "What is the stack in simple words?",
+    "answer": "Each thread has a stack that stores method frames, including local variables and intermediate execution state."
+  },
+  {
+    "id": "JAVA_151",
+    "language": "Java",
+    "question": "What is a thread?",
+    "answer": "A thread is an independent path of execution within a process."
+  },
+  {
+    "id": "JAVA_152",
+    "language": "Java",
+    "question": "What is a thread in simple words?",
+    "answer": "A thread is an independent path of execution within a process."
+  },
+  {
+    "id": "JAVA_153",
+    "language": "Java",
+    "question": "How do you create a thread?",
+    "answer": "You can implement Runnable or Callable and submit the task to an ExecutorService; extending Thread is another option."
+  },
+  {
+    "id": "JAVA_154",
+    "language": "Java",
+    "question": "How do you create a thread in simple words?",
+    "answer": "You can implement Runnable or Callable and submit the task to an ExecutorService; extending Thread is another option."
+  },
+  {
+    "id": "JAVA_155",
+    "language": "Java",
+    "question": "What is synchronization?",
+    "answer": "Synchronization coordinates access to shared mutable state so that critical sections are not concurrently executed by conflicting threads."
+  },
+  {
+    "id": "JAVA_156",
+    "language": "Java",
+    "question": "What is synchronization in simple words?",
+    "answer": "Synchronization coordinates access to shared mutable state so that critical sections are not concurrently executed by conflicting threads."
+  },
+  {
+    "id": "JAVA_157",
+    "language": "Java",
+    "question": "What is a deadlock?",
+    "answer": "A deadlock occurs when threads wait indefinitely for resources held by one another."
+  },
+  {
+    "id": "JAVA_158",
+    "language": "Java",
+    "question": "What is a deadlock in simple words?",
+    "answer": "A deadlock occurs when threads wait indefinitely for resources held by one another."
+  },
+  {
+    "id": "JAVA_159",
+    "language": "Java",
+    "question": "What is a lambda expression?",
+    "answer": "A lambda expression provides a concise implementation of a functional interface, such as x -> x * 2."
+  },
+  {
+    "id": "JAVA_160",
+    "language": "Java",
+    "question": "What is a lambda expression in simple words?",
+    "answer": "A lambda expression provides a concise implementation of a functional interface, such as x -> x * 2."
+  },
+  {
+    "id": "JAVA_161",
+    "language": "Java",
+    "question": "What is a functional interface?",
+    "answer": "A functional interface has exactly one abstract method and can be implemented with a lambda expression or method reference."
+  },
+  {
+    "id": "JAVA_162",
+    "language": "Java",
+    "question": "What is a functional interface in simple words?",
+    "answer": "A functional interface has exactly one abstract method and can be implemented with a lambda expression or method reference."
+  },
+  {
+    "id": "JAVA_163",
+    "language": "Java",
+    "question": "What is the Stream API?",
+    "answer": "The Stream API processes sequences of data through operations such as filter, map, and collect."
+  },
+  {
+    "id": "JAVA_164",
+    "language": "Java",
+    "question": "What is the Stream API in simple words?",
+    "answer": "The Stream API processes sequences of data through operations such as filter, map, and collect."
+  },
+  {
+    "id": "JAVA_165",
+    "language": "Java",
+    "question": "What is the difference between map() and filter() in streams?",
+    "answer": "map transforms each element; filter retains only elements that satisfy a predicate."
+  },
+  {
+    "id": "JAVA_166",
+    "language": "Java",
+    "question": "What is the difference between map() and filter() in streams in simple words?",
+    "answer": "map transforms each element; filter retains only elements that satisfy a predicate."
+  },
+  {
+    "id": "JAVA_167",
+    "language": "Java",
+    "question": "What is Optional?",
+    "answer": "Optional is a container that may or may not hold a non-null value and can make absence explicit in APIs."
+  },
+  {
+    "id": "JAVA_168",
+    "language": "Java",
+    "question": "What is Optional in simple words?",
+    "answer": "Optional is a container that may or may not hold a non-null value and can make absence explicit in APIs."
+  },
+  {
+    "id": "JAVA_169",
+    "language": "Java",
+    "question": "What is an annotation?",
+    "answer": "An annotation adds metadata to program elements and can be processed by the compiler, tools, or runtime."
+  },
+  {
+    "id": "JAVA_170",
+    "language": "Java",
+    "question": "What is an annotation in simple words?",
+    "answer": "An annotation adds metadata to program elements and can be processed by the compiler, tools, or runtime."
+  },
+  {
+    "id": "JAVA_171",
+    "language": "Java",
+    "question": "What is @Override?",
+    "answer": "@Override tells the compiler that a method is intended to override an inherited method, allowing it to detect mistakes."
+  },
+  {
+    "id": "JAVA_172",
+    "language": "Java",
+    "question": "What is @Override in simple words?",
+    "answer": "@Override tells the compiler that a method is intended to override an inherited method, allowing it to detect mistakes."
+  },
+  {
+    "id": "JAVA_173",
+    "language": "Java",
+    "question": "What is JDBC?",
+    "answer": "JDBC is Java's standard API for connecting to databases, executing SQL, and processing results."
+  },
+  {
+    "id": "JAVA_174",
+    "language": "Java",
+    "question": "What is JDBC in simple words?",
+    "answer": "JDBC is Java's standard API for connecting to databases, executing SQL, and processing results."
+  },
+  {
+    "id": "JAVA_175",
+    "language": "Java",
+    "question": "What is a PreparedStatement?",
+    "answer": "PreparedStatement represents a precompiled parameterized SQL statement and helps avoid SQL injection when parameters are bound correctly."
+  },
+  {
+    "id": "JAVA_176",
+    "language": "Java",
+    "question": "What is a PreparedStatement in simple words?",
+    "answer": "PreparedStatement represents a precompiled parameterized SQL statement and helps avoid SQL injection when parameters are bound correctly."
+  },
+  {
+    "id": "JAVA_177",
+    "language": "Java",
+    "question": "What is serialization?",
+    "answer": "Serialization converts an object's state into a byte stream or another representation for storage or transfer."
+  },
+  {
+    "id": "JAVA_178",
+    "language": "Java",
+    "question": "What is serialization in simple words?",
+    "answer": "Serialization converts an object's state into a byte stream or another representation for storage or transfer."
+  },
+  {
+    "id": "JAVA_179",
+    "language": "Java",
+    "question": "What is a file path?",
+    "answer": "A file path identifies a file-system location; Java provides Path and Files APIs in java.nio.file."
+  },
+  {
+    "id": "JAVA_180",
+    "language": "Java",
+    "question": "What is a file path in simple words?",
+    "answer": "A file path identifies a file-system location; Java provides Path and Files APIs in java.nio.file."
+  },
+  {
+    "id": "JAVA_181",
+    "language": "Java",
+    "question": "How do you read a text file in modern Java?",
+    "answer": "Use Files.readString(path) for a whole file or Files.lines(path) for a stream, with appropriate resource handling."
+  },
+  {
+    "id": "JAVA_182",
+    "language": "Java",
+    "question": "How do you read a text file in modern Java in simple words?",
+    "answer": "Use Files.readString(path) for a whole file or Files.lines(path) for a stream, with appropriate resource handling."
+  },
+  {
+    "id": "JAVA_183",
+    "language": "Java",
+    "question": "What is Maven?",
+    "answer": "Maven is a build and dependency-management tool that uses a project object model, commonly stored in pom.xml."
+  },
+  {
+    "id": "JAVA_184",
+    "language": "Java",
+    "question": "What is Maven in simple words?",
+    "answer": "Maven is a build and dependency-management tool that uses a project object model, commonly stored in pom.xml."
+  },
+  {
+    "id": "JAVA_185",
+    "language": "Java",
+    "question": "What is Gradle?",
+    "answer": "Gradle is a build automation tool that uses build scripts and supports dependency management and customizable tasks."
+  },
+  {
+    "id": "JAVA_186",
+    "language": "Java",
+    "question": "What is Gradle in simple words?",
+    "answer": "Gradle is a build automation tool that uses build scripts and supports dependency management and customizable tasks."
+  },
+  {
+    "id": "JAVA_187",
+    "language": "Java",
+    "question": "What is unit testing in Java?",
+    "answer": "Unit testing checks individual classes or methods; JUnit is a widely used Java testing framework."
+  },
+  {
+    "id": "JAVA_188",
+    "language": "Java",
+    "question": "What is unit testing in Java in simple words?",
+    "answer": "Unit testing checks individual classes or methods; JUnit is a widely used Java testing framework."
+  },
+  {
+    "id": "JAVA_189",
+    "language": "Java",
+    "question": "What is JUnit?",
+    "answer": "JUnit is a testing framework for writing and running automated tests in Java."
+  },
+  {
+    "id": "JAVA_190",
+    "language": "Java",
+    "question": "What is JUnit in simple words?",
+    "answer": "JUnit is a testing framework for writing and running automated tests in Java."
+  },
+  {
+    "id": "JAVA_191",
+    "language": "Java",
+    "question": "What is a package manager/build tool dependency?",
+    "answer": "A build tool dependency declares an external library so the build system can resolve it and add it to the classpath."
+  },
+  {
+    "id": "JAVA_192",
+    "language": "Java",
+    "question": "What is a package manager/build tool dependency in simple words?",
+    "answer": "A build tool dependency declares an external library so the build system can resolve it and add it to the classpath."
+  },
+  {
+    "id": "JAVA_193",
+    "language": "Java",
+    "question": "What is the classpath?",
+    "answer": "The classpath tells Java tools and the JVM where to find user classes and libraries."
+  },
+  {
+    "id": "JAVA_194",
+    "language": "Java",
+    "question": "What is the classpath in simple words?",
+    "answer": "The classpath tells Java tools and the JVM where to find user classes and libraries."
+  },
+  {
+    "id": "JAVA_195",
+    "language": "Java",
+    "question": "What is a record in Java?",
+    "answer": "A record is a concise class form for transparent data carriers, with generated accessors and value-oriented methods."
+  },
+  {
+    "id": "JAVA_196",
+    "language": "Java",
+    "question": "What is a record in Java in simple words?",
+    "answer": "A record is a concise class form for transparent data carriers, with generated accessors and value-oriented methods."
+  },
+  {
+    "id": "JAVA_197",
+    "language": "Java",
+    "question": "What is a sealed class?",
+    "answer": "A sealed class or interface restricts which types may extend or implement it, using permits or same-file rules."
+  },
+  {
+    "id": "JAVA_198",
+    "language": "Java",
+    "question": "What is a sealed class in simple words?",
+    "answer": "A sealed class or interface restricts which types may extend or implement it, using permits or same-file rules."
+  },
+  {
+    "id": "JAVA_199",
+    "language": "Java",
+    "question": "What is var in Java?",
+    "answer": "Local-variable type inference lets the compiler infer a local variable's static type from its initializer; it does not make Java dynamically typed."
+  },
+  {
+    "id": "JAVA_200",
+    "language": "Java",
+    "question": "What is var in Java in simple words?",
+    "answer": "Local-variable type inference lets the compiler infer a local variable's static type from its initializer; it does not make Java dynamically typed."
+  },
+  {
+    "id": "JAVA_201",
+    "language": "Java",
+    "question": "What is the difference between == and equals() in Java?",
+    "answer": "For primitives, == compares values; for references, == compares identity. equals() compares logical equality when properly implemented."
+  },
+  {
+    "id": "JAVA_202",
+    "language": "Java",
+    "question": "What is the difference between == and equals() in Java in simple words?",
+    "answer": "For primitives, == compares values; for references, == compares identity. equals() compares logical equality when properly implemented."
+  },
+  {
+    "id": "JAVA_203",
+    "language": "Java",
+    "question": "What is a null reference?",
+    "answer": "null indicates that a reference variable does not currently refer to an object."
+  },
+  {
+    "id": "JAVA_204",
+    "language": "Java",
+    "question": "What is a null reference in simple words?",
+    "answer": "null indicates that a reference variable does not currently refer to an object."
+  },
+  {
+    "id": "JAVA_205",
+    "language": "Java",
+    "question": "What is NullPointerException?",
+    "answer": "NullPointerException is an unchecked exception thrown when code uses null where an object reference is required."
+  },
+  {
+    "id": "JAVA_206",
+    "language": "Java",
+    "question": "What is NullPointerException in simple words?",
+    "answer": "NullPointerException is an unchecked exception thrown when code uses null where an object reference is required."
+  },
+  {
+    "id": "JAVA_207",
+    "language": "Java",
+    "question": "What is a constructor overloading?",
+    "answer": "Constructor overloading provides multiple constructors with different parameter lists to support different initialization options."
+  },
+  {
+    "id": "JAVA_208",
+    "language": "Java",
+    "question": "What is a constructor overloading in simple words?",
+    "answer": "Constructor overloading provides multiple constructors with different parameter lists to support different initialization options."
+  },
+  {
+    "id": "JAVA_209",
+    "language": "Java",
+    "question": "What is an inner class?",
+    "answer": "An inner class is a class declared within another class or interface and can access enclosing-instance members when applicable."
+  },
+  {
+    "id": "JAVA_210",
+    "language": "Java",
+    "question": "What is an inner class in simple words?",
+    "answer": "An inner class is a class declared within another class or interface and can access enclosing-instance members when applicable."
+  },
+  {
+    "id": "JAVA_211",
+    "language": "Java",
+    "question": "What is an anonymous class?",
+    "answer": "An anonymous class is an unnamed class expression used to instantiate a class or implement an interface with an inline body."
+  },
+  {
+    "id": "JAVA_212",
+    "language": "Java",
+    "question": "What is an anonymous class in simple words?",
+    "answer": "An anonymous class is an unnamed class expression used to instantiate a class or implement an interface with an inline body."
+  },
+  {
+    "id": "JAVA_213",
+    "language": "Java",
+    "question": "What is a method reference?",
+    "answer": "A method reference is shorthand for a lambda that calls an existing method, using forms such as String::length."
+  },
+  {
+    "id": "JAVA_214",
+    "language": "Java",
+    "question": "What is a method reference in simple words?",
+    "answer": "A method reference is shorthand for a lambda that calls an existing method, using forms such as String::length."
+  },
+  {
+    "id": "JAVA_215",
+    "language": "Java",
+    "question": "What is the difference between List and Set?",
+    "answer": "List preserves positional order and allows duplicates; Set models unique elements and does not promise a particular order unless its implementation does."
+  },
+  {
+    "id": "JAVA_216",
+    "language": "Java",
+    "question": "What is the difference between List and Set in simple words?",
+    "answer": "List preserves positional order and allows duplicates; Set models unique elements and does not promise a particular order unless its implementation does."
+  },
+  {
+    "id": "JAVA_217",
+    "language": "Java",
+    "question": "What is the difference between ArrayList and array?",
+    "answer": "An array has fixed length and can store primitives or references; ArrayList resizes dynamically and stores objects."
+  },
+  {
+    "id": "JAVA_218",
+    "language": "Java",
+    "question": "What is the difference between ArrayList and array in simple words?",
+    "answer": "An array has fixed length and can store primitives or references; ArrayList resizes dynamically and stores objects."
+  },
+  {
+    "id": "JAVA_219",
+    "language": "Java",
+    "question": "What is BigDecimal used for?",
+    "answer": "BigDecimal supports decimal arithmetic with explicit precision and rounding, often used for financial calculations."
+  },
+  {
+    "id": "JAVA_220",
+    "language": "Java",
+    "question": "What is BigDecimal used for in simple words?",
+    "answer": "BigDecimal supports decimal arithmetic with explicit precision and rounding, often used for financial calculations."
+  },
+  {
+    "id": "JAVA_221",
+    "language": "Java",
+    "question": "What is LocalDate?",
+    "answer": "LocalDate represents a date without a time or time zone, from the java.time API."
+  },
+  {
+    "id": "JAVA_222",
+    "language": "Java",
+    "question": "What is LocalDate in simple words?",
+    "answer": "LocalDate represents a date without a time or time zone, from the java.time API."
+  },
+  {
+    "id": "JAVA_223",
+    "language": "Java",
+    "question": "What is LocalDateTime?",
+    "answer": "LocalDateTime represents a date and time without a time zone or offset."
+  },
+  {
+    "id": "JAVA_224",
+    "language": "Java",
+    "question": "What is LocalDateTime in simple words?",
+    "answer": "LocalDateTime represents a date and time without a time zone or offset."
+  },
+  {
+    "id": "JAVA_225",
+    "language": "Java",
+    "question": "What is the java.time package?",
+    "answer": "java.time provides modern date and time classes such as LocalDate, Instant, Duration, and ZonedDateTime."
+  },
+  {
+    "id": "JAVA_226",
+    "language": "Java",
+    "question": "What is the java.time package in simple words?",
+    "answer": "java.time provides modern date and time classes such as LocalDate, Instant, Duration, and ZonedDateTime."
+  },
+  {
+    "id": "JAVA_227",
+    "language": "Java",
+    "question": "What is an assertion?",
+    "answer": "An assertion checks a condition expected to be true during development and can be enabled with JVM options."
+  },
+  {
+    "id": "JAVA_228",
+    "language": "Java",
+    "question": "What is an assertion in simple words?",
+    "answer": "An assertion checks a condition expected to be true during development and can be enabled with JVM options."
+  },
+  {
+    "id": "JAVA_229",
+    "language": "Java",
+    "question": "What is a switch expression?",
+    "answer": "A switch expression produces a value and can use arrow labels and yield for block cases."
+  },
+  {
+    "id": "JAVA_230",
+    "language": "Java",
+    "question": "What is a switch expression in simple words?",
+    "answer": "A switch expression produces a value and can use arrow labels and yield for block cases."
+  },
+  {
+    "id": "JAVA_231",
+    "language": "Java",
+    "question": "What is a module in Java?",
+    "answer": "A Java module groups packages and declares dependencies and exported packages using module-info.java."
+  },
+  {
+    "id": "JAVA_232",
+    "language": "Java",
+    "question": "What is a module in Java in simple words?",
+    "answer": "A Java module groups packages and declares dependencies and exported packages using module-info.java."
+  },
+  {
+    "id": "JAVA_233",
+    "language": "Java",
+    "question": "What is the Java Memory Model?",
+    "answer": "The Java Memory Model defines how threads interact through memory and which visibility and ordering guarantees synchronization provides."
+  },
+  {
+    "id": "JAVA_234",
+    "language": "Java",
+    "question": "What is the Java Memory Model in simple words?",
+    "answer": "The Java Memory Model defines how threads interact through memory and which visibility and ordering guarantees synchronization provides."
+  },
+  {
+    "id": "JAVA_235",
+    "language": "Java",
+    "question": "What is volatile?",
+    "answer": "volatile ensures visibility and ordering guarantees for reads and writes of a variable, but does not make compound operations atomic."
+  },
+  {
+    "id": "JAVA_236",
+    "language": "Java",
+    "question": "What is volatile in simple words?",
+    "answer": "volatile ensures visibility and ordering guarantees for reads and writes of a variable, but does not make compound operations atomic."
+  },
+  {
+    "id": "JAVA_237",
+    "language": "Java",
+    "question": "What is an ExecutorService?",
+    "answer": "ExecutorService manages task execution using a pool or other execution strategy and provides lifecycle and task-submission methods."
+  },
+  {
+    "id": "JAVA_238",
+    "language": "Java",
+    "question": "What is an ExecutorService in simple words?",
+    "answer": "ExecutorService manages task execution using a pool or other execution strategy and provides lifecycle and task-submission methods."
+  },
+  {
+    "id": "JAVA_239",
+    "language": "Java",
+    "question": "What is a Callable?",
+    "answer": "Callable is a task interface whose call() method can return a result and throw checked exceptions."
+  },
+  {
+    "id": "JAVA_240",
+    "language": "Java",
+    "question": "What is a Callable in simple words?",
+    "answer": "Callable is a task interface whose call() method can return a result and throw checked exceptions."
+  },
+  {
+    "id": "JAVA_241",
+    "language": "Java",
+    "question": "What is a Future?",
+    "answer": "Future represents the result of an asynchronous computation and provides methods to check completion or retrieve the result."
+  },
+  {
+    "id": "JAVA_242",
+    "language": "Java",
+    "question": "What is a Future in simple words?",
+    "answer": "Future represents the result of an asynchronous computation and provides methods to check completion or retrieve the result."
+  },
+  {
+    "id": "JAVA_243",
+    "language": "Java",
+    "question": "What is a JDBC Connection?",
+    "answer": "A Connection represents a session with a database and is used to create statements and manage transactions."
+  },
+  {
+    "id": "JAVA_244",
+    "language": "Java",
+    "question": "What is a JDBC Connection in simple words?",
+    "answer": "A Connection represents a session with a database and is used to create statements and manage transactions."
+  },
+  {
+    "id": "JAVA_245",
+    "language": "Java",
+    "question": "What is a database transaction?",
+    "answer": "A transaction groups database operations into a unit that can be committed or rolled back."
+  },
+  {
+    "id": "JAVA_246",
+    "language": "Java",
+    "question": "What is a database transaction in simple words?",
+    "answer": "A transaction groups database operations into a unit that can be committed or rolled back."
+  },
+  {
+    "id": "JAVA_247",
+    "language": "Java",
+    "question": "What is SQL injection?",
+    "answer": "SQL injection is an attack where untrusted input changes the meaning of a SQL query; parameterized statements are a primary defense."
+  },
+  {
+    "id": "JAVA_248",
+    "language": "Java",
+    "question": "What is SQL injection in simple words?",
+    "answer": "SQL injection is an attack where untrusted input changes the meaning of a SQL query; parameterized statements are a primary defense."
+  },
+  {
+    "id": "JAVA_249",
+    "language": "Java",
+    "question": "What is a servlet?",
+    "answer": "A servlet is a Java server-side component that handles requests and responses in a servlet container."
+  },
+  {
+    "id": "JAVA_250",
+    "language": "Java",
+    "question": "What is a servlet in simple words?",
+    "answer": "A servlet is a Java server-side component that handles requests and responses in a servlet container."
+  }
+]
